@@ -9,6 +9,24 @@ def reverse_symptoms(symptoms: str) -> str:
     # Placeholder logic to be filled in later
     pass
 
+def identify_genetic_palindrome():
+    """
+    In genetics, palindromic sequences are common in DNA, where they often
+    form part of recognition sites for restriction enzymes or play important 
+    roles in the regulation of genes. 
+    
+    A palindromic sequence is one that reads the same forwards and backwards 
+    (e.g., 'GAATTC' is a palindrome because its reverse complement is also 'GAATTC').
+    
+    Your mission: Write a function that takes in a DNA sequence and checks 
+    whether it is a palindrome. 
+        - The function should account for the complementary base pairs in DNA
+          (A pairs with T, and C pairs with G). 
+        - The function should return whether the given sequence is a valid DNA 
+          palindrome, meaning that its reverse complement matches the sequence 
+          itself.
+    """
+
 def find_missing_vaccinations(received_vaccines: list, all_vaccines: list) -> list:
     """
     Write a function that takes in a list of vaccinations a patient has 
