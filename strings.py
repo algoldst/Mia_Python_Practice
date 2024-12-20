@@ -10,6 +10,8 @@ import backend
 # The starter code for each function includes a 'return'
 # which is just a placeholder for your code.
 # Try to complete as many functions as you can! ❤
+# Keep an eye out for surprises in the output when you 
+# get all tests in a function correct!
 
 # STRINGS
 

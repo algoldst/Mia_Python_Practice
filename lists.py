@@ -9,8 +9,9 @@ import backend
 # printing 'OK' when each function is correct.
 # The starter code for each function includes a 'return'
 # which is just a placeholder for your code.
-# It's ok if you do not complete all the functions, and there
-# are some additional functions to try in list2.py.
+# Try to complete as many functions as you can! ❤
+# Keep an eye out for surprises in the output when you 
+# get all tests in a function correct!
 
 # A. Feedback Form
 # Given a list of customer feedback strings, return the count of the
@@ -52,7 +53,7 @@ def count_big_feedback(feedback_form):
 # Always consider built-in functions! You can usually write your own
 # implementation, but why not leverage the work of others who came before?
 # In this case, the function you'll want to use is called sorted(). 
-# Figure out how you would find this by googling, if you didn't know it existed.
+# Investigate how you might find this by googling, if you didn't know it existed.
 #
 # Hint 2: part of this task can be done by making 2 lists from the given 
 # symptoms list, and sorting each of these before combining them.
@@ -72,14 +73,13 @@ def alphabetize(symptoms):
     return sorted_symptoms
 
 
-
-# Oh golly! The dirt is slow today! We'll never get all the patients seen today
-# at the rate we're going!
-# You look at the schedule and see that most of the delay is for vaccinations.
-# (Apparently this is a very liberal clinic.)
+# C. Missing Vaccinations
+# Oh golly! The dirt is really moving slowly today! 
+# We'll never get all the patients seen today at the rate we're going!
+# Luckily, you can see from the schedule that most of the delay is for vaccinations.
 # 
 # Write a function that takes in a list of vaccinations a patient has already
-# received (e.g., ['MMR', 'Hepatitis B', 'Flu']) and returns the list of 
+# received (e.g., ['MMR', 'Hepatitis B', 'Flu']) and returns the list of
 # vaccinations that are missing from their complete vaccination schedule.
 #
 # For example:
@@ -91,14 +91,13 @@ def alphabetize(symptoms):
 # This is a communist clinic — everyone is getting the same vaccinations!! ⚒ ⚒ ⚒
 def find_missing_vaccinations(received_vaccines, all_vaccines):
     vaccines_needed = []
-    for vaccine in received_vaccines:
-        if vaccine not in all_vaccines:
+    for vaccine in all_vaccines:
+        if vaccine not in received_vaccines:
             vaccines_needed.append(vaccine)
-    
     return vaccines_needed
 
 
-# Simple test function to compare what was is returned vs. what should be returned.
+# Simple test function to compare what is returned vs. what should be returned.
 def test(got, expected):
     if got == expected:
         prefix = ' OK '
@@ -114,17 +113,23 @@ def main():
     # Stores results of function tests
     results = []
 
-    print('\nFeedback Form')
+    backend.title_sequence('Feedback Form')
     # Each line calls blood_pressure(), compares its result to the expected for that call.
     results.append(test( count_big_feedback(['Great service', '2/10 service, Jake not there :(', 'lol this ur bf']), 1 ))
     results.append(test( count_big_feedback(['meh', 'I really liked Mia she\'s amazing!', 'Cool place', "I think the trainer here works really hard!"]), 2 ))
     results.append(test( count_big_feedback(['I liked it', 'Whatever', 'It\'s cool I guess']), 1 ))
 
     if min(results) == 1:
-        print(backend.decrypt('\x14ao*vy\x80o*Tkuo++*Kxn*Tkuo*vy\x80o}*\x83y\x7f+*D3*^rkxu*\x83y\x7f*py|*uoozsxq*\x83y\x7f|*zk~sox~}*}kpo+'))
+        print(backend.decrypt('\x14Nok|*Wsk6*\x81o*k|o*o\x82ms~on*~y*}rk|o*yxo*yp*y\x7f|*~yz*mvsxsm*|o\x80so\x81}' +
+                              '+*\x14\x14O\x82mo|z~*p|yw*mvsxsm*|o\x80so\x81*py|wD*\x14O\x80o|\x83*~swo*S*qo~*~ro*' +
+                              'mrkxmo6*S*k}u*~y*lo*}oox*l\x83*Wsk8*]ro1}*t\x7f}~*~ro*lo}~+*S*kw*}y*swz|o}}on*l\x83*'+
+                              'ro|*z|ypo}}syxkvs}w*kxn*o\x82moz~syxkv*mk|o8*Zv\x7f}6*S*rok|n*}ro1}*vok|xsxq*ry\x81' +
+                              '*~y*myno*sx*Z\x83~ryxI*Kwk\x84sxq+*ark~*k*lyvn6*y\x7f~qysxq6*kxn*o\x82ms~sxq*zo|}yx' +
+                              'kvs~\x838*Zv\x7f}6*}ro*vyyu}*qyyn*77*kw*S*kvvy\x81on*~y*\x81|s~o*~rk~*yx~y*k*poonlkm'+
+                              'u*py|wI*]y||\x836*s~1}*~|\x7fo*~ry\x7fqr888'))
 
 
-    print('\nDifferential Diagnosis')
+    backend.title_sequence('Differential Diagnosis')
     results = []
     symptoms_list = [['_fever', '_cough', 'chills', 'loss of appetite'],
                     ['headache', 'dizziness', '_nausea', '_vomiting'],
@@ -141,11 +146,23 @@ def main():
     for i in range( len(symptoms_list) ):
         results.append(test( alphabetize(symptoms_list[i]), symptoms_list_alphabetized[i]) )
 
+    if min(results) == 1:
+        print(backend.decrypt('\x141^rkxu}*py|*nysxq*~rs}*py|*wo+*Kxn*}y*{\x7fsmuv\x836*~yy+*cy\x7f1|o*sxm|onslvo+1' +
+                              '\x1477*1Kr6*xy*z|ylvow+*S~*yxv\x83*~yyu*k*}om+1'))
 
 
     backend.title_sequence('The Dirt!!')
-    results.append(test( find_missing_vaccinations(['polio', 'hpv'], ['polio', 'hpv', 'covid', 'rsv', 'ipv', 'var', 'hepA']) ))
+    all_vaccinations = ['polio', 'hpv', 'covid', 'rsv', 'ipv', 'var', 'hepA']
+    results.append(test( find_missing_vaccinations(['polio', 'hpv'], all_vaccinations), ['covid', 'rsv', 'ipv', 'var', 'hepA']))
+    results.append(test( find_missing_vaccinations(['hpv', 'hepA', 'rsv', 'covid'], all_vaccinations), ['polio', 'ipv', 'var']))
+    results.append(test( find_missing_vaccinations(['hpv', 'covid', 'polio', 'rsv' ], all_vaccinations), ['ipv', 'var', 'hepA'] ))
+    results.append(test( find_missing_vaccinations(['rsv', 'ipv', 'var', 'polio', 'hpv', 'covid', 'hepA'], all_vaccinations), []))
     
+    if min(results) == 1:
+        print(backend.decrypt('\x14ay\x816*o\x80o|\x83yxo*qy~*}oox*~ynk\x83+*cy\x7f*nsn*k*q|ok~*tyl*uoozsxq*o\x80o|\x83~' +
+                              'rsxq*}rsz7}rkzo+*Q|ok~*\x81y|u6*~rkxu*\x83y\x7f*}y*w\x7fmr+'))
+
+    print("\n\n")
 
 # Standard boilerplate to call main() function
 if __name__ == '__main__':
