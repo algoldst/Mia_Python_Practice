@@ -83,17 +83,15 @@ def identify_treatments_in_range(treatments: dict, min_percent: float, max_perce
 # >>> for cost_range in percentiles:
 # won't work as easily here, because you need to reference multiple adjacent elements
 # of `percentiles` at the same time. 
-# Instead, consider using the indices of percentiles on each iteration, like so:
-#
-# >>> for index in range( len(percentiles) ):
-#
+# Instead, consider using the indices of percentiles on each iteration,
 # which will give index = 0,1,2,3,4...[ len(percentiles) -1 ]  on each successive iteration.
 # Then, you can reference the current index, AND the next index, at the same time:
-# >>>     percentiles[index]     # => percentiles[0]
-# >>>     percentiles[index+1]   # => percentiles[1]
-#
-# Note: The # => comment can be read as "evaluates to", as in saying
-# " percentiles[index] evaluates to percentiles[0] "
+# 
+# >>> for index in range( len(percentiles) ):
+# >>>     percentiles[index]
+# >>>     percentiles[index+1]
+#   
+# 
 #
 def count_treatments_per_range(treatments: dict, percentiles: float) -> list:
     # Variable to hold number of options available in each percentile range

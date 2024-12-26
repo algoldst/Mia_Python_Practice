@@ -1,0 +1,295 @@
+Patient ID,Name,Age,Sex,Symptoms Reported,Diagnosis
+af5b5470-faec-4fff-8284-68a7129ef2a4,Benjamin Ponce,57,Other,"frequent urination, thirst, fatigue",Diabetes
+037545be-e65a-48c7-8cd4-2d2681ff4abe,Elizabeth Moreno,92,Other,"fever, cough, shortness of breath",Flu
+c0bca973-922c-4632-955a-d54495c036f0,Kelly Evans,31,Female,"headache, sensitivity to light, nausea",Migraine
+42d43c84-eb34-409d-aa94-c5df6ee85805,Linda Salinas,68,Other,"joint pain, stiffness, swelling",Arthritis
+95acbcc3-2434-4f67-8f88-1dfb183eca4e,Natalie Jenkins,55,Female,"rash, itching, swelling",Allergic Reaction
+0ee65382-02f7-4bd5-b25a-5c32bb654fae,Matthew Hernandez,54,Male,"chronic headaches, ringing in the ears, dizziness",Meniere's Disease
+37d66304-64e9-4cd5-af56-3a70a2d356b7,Cesar Olson,70,Female,"rash, itching, swelling",Allergic Reaction
+6f5be5b3-da17-4e08-8bfd-2eb763a34df4,Robert Flowers,33,Female,"frequent urination, thirst, fatigue",Diabetes
+e56e5872-f894-4b6a-8971-332da6f65760,Connor Pearson,15,Other,"rash, itching, swelling",Allergic Reaction
+e97d941c-33dc-4e71-99af-e9b8d069362f,Jacqueline Jimenez,57,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+b29ed5f7-aa1f-4185-a430-f93fb8385a9e,Amy Hester,79,Female,"headache, sensitivity to light, nausea",Migraine
+246c0ac1-b332-416d-a375-f88bc133497f,Rachel Jones,81,Male,"blurred vision, eye pain, redness",Conjunctivitis
+1e03e73d-1ca6-43b4-acc6-8c8baae17eb7,Robert Garcia,2,Male,"sore throat, cough, fever",Common Cold
+1cf5a1c0-40ec-4cfc-981d-4f0f21161e92,Lauren Gross,88,Other,"joint pain, stiffness, swelling",Arthritis
+ce5cd358-45b1-4f58-9a75-2d19ee672a22,Shawna Ortiz,64,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+e71f36b9-b890-460b-a9b9-e1c22c169af3,Mallory Williams,90,Female,"rash, itching, swelling",Allergic Reaction
+e7fa6154-fe7b-401f-b807-ede1c3c3a870,Michael Stewart,83,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+65bf6ec6-1948-4a3d-999a-68672a4a7c8b,Allison Bridges,15,Male,"rash, itching, swelling",Allergic Reaction
+42c2bba2-0611-4d2a-8655-926a3e530933,Emily Macias,77,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+74c5deb4-c7e8-46e1-8af6-9efafa474cec,Daniel Chang,90,Female,"fever, cough, shortness of breath",Flu
+1cbbe385-76f8-40d3-97f6-86073af356e0,Caitlyn Young,73,Other,"chest pain, shortness of breath, fatigue",Heart Disease
+0498438d-0ad0-4237-b6e6-5a056aed258e,Lydia Montoya,7,Female,"fever, cough, shortness of breath",Flu
+eae1da5e-52b8-4d2e-9115-7716c505795c,Lydia Mcbride,82,Female,"rash, itching, swelling",Allergic Reaction
+49973451-545a-4d68-8917-b0599cfaef41,Regina Rasmussen,34,Female,"blurred vision, eye pain, redness",Conjunctivitis
+d76d2ee6-ea40-4728-aba0-260e5f5a1cc0,Tanner Dominguez,63,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+5d4078af-74d0-4de1-8f07-3997d8eab94f,Anthony Donovan,89,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+f30a698e-00de-437e-a4a8-5f10da0d345a,Mary Gray,97,Female,"sore throat, cough, fever",Common Cold
+78e020e8-6e23-4070-bbd5-e93e08c80c69,Patricia Hernandez,48,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+ee2e3054-a259-4d4f-b9b6-c6b400a156b9,Richard Johnson,36,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+f9573114-3415-4f14-9ed8-3b7c98e1faaa,James Miller,55,Male,"blurred vision, eye pain, redness",Conjunctivitis
+93e77f58-0406-4651-8fc9-4f324a5cbb7b,John Thompson,24,Other,"sore throat, cough, fever",Common Cold
+256c0e97-75bb-44ef-8e4d-3ad5a719080e,Victoria Small,58,Other,"joint pain, stiffness, swelling",Arthritis
+bf44807c-4ca7-45b6-bf62-90923de0fc21,Becky Hunter,29,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+4598f5ea-f072-4b40-879b-42cfe360ac06,Jason Williams,94,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+89f3e691-2cea-471b-bb12-337e06256553,Lee Willis,28,Female,"rash, itching, swelling",Allergic Reaction
+7d433a63-b3cf-45e0-b720-d9e1d71fa11d,Tonya Johnson,89,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+4487fee5-ddc1-4436-8501-ec316b01aca7,Craig Hinton,98,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+7c9e31e0-bd51-4f26-bfb3-438d997de8ec,Kristin Townsend,5,Other,"blurred vision, eye pain, redness",Conjunctivitis
+b2cddb83-13e7-47ce-8f65-8d061b874d04,Rachel Medina,38,Female,"headache, sensitivity to light, nausea",Migraine
+226482cc-dac3-4ad8-b70b-4b8d2c460540,Paul Glover,9,Female,"blurred vision, eye pain, redness",Conjunctivitis
+e58f64ad-5b57-4d1f-8fc8-9ea2d432c8bd,William Lewis,66,Male,"rash, itching, swelling",Allergic Reaction
+cfa32f2c-83d0-49d5-aa82-9f13e46a8a8c,Dawn Sanchez,64,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+900e00e3-4f94-4fad-8015-c8620cdfcdf7,Karen Cisneros,56,Other,"rash, itching, swelling",Allergic Reaction
+fe1e92b0-4eed-41b7-9f3e-f6c7a5767045,Steven Ryan,39,Female,"blurred vision, eye pain, redness",Conjunctivitis
+0673ceb6-0995-4fa5-ba41-5692599178d2,Lisa Mckay,45,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+62bd5420-6c2d-43e2-aca6-655cf9fa9cef,Alexandra Oliver,100,Male,"rash, itching, swelling",Allergic Reaction
+4d9621e0-451b-46bc-b3ba-cd27f1d7e44e,Thomas Cain,3,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+a4253fcf-e884-4367-9505-aa11530d99c7,Patricia Douglas,3,Female,"headache, sensitivity to light, nausea",Migraine
+35717e82-a298-4f6b-9567-7cfd0178d193,Taylor Hill,29,Male,"fever, cough, shortness of breath",Flu
+f8eeb7b0-98ab-4ab5-93fd-650512d22019,Kevin Mcclain,72,Male,"sore throat, cough, fever",Common Cold
+55d94d80-2efe-4656-91fd-f8789d73f93f,Julie Murray,43,Male,"fever, cough, shortness of breath",Flu
+3a113273-f78f-4ebf-a1b3-f59d1a018f26,Dylan Melendez,75,Male,"rash, itching, swelling",Allergic Reaction
+c9b96b20-7692-4a2b-950c-ddbe66083289,Martha Valenzuela,27,Male,"joint pain, stiffness, swelling",Arthritis
+1c9b18d6-977f-46a3-bac5-f3515365ab15,Jeffrey Huang,79,Male,"sore throat, cough, fever",Common Cold
+df510bae-8732-4486-a7ee-bb3a7dc0db64,Kathy Lopez,57,Male,"joint pain, stiffness, swelling",Arthritis
+e164bdc5-680d-47af-ae8d-3a2421966c42,David Castaneda,59,Female,"rash, itching, swelling",Allergic Reaction
+76d3fbd2-baa4-4a9d-acf7-bf285016ae86,Lisa Haynes,23,Female,"blurred vision, eye pain, redness",Conjunctivitis
+fbc41bac-a4c7-45e7-b7db-6b5a36dd321a,Holly Mckinney,83,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+0eea4468-f6f4-41ad-908f-a8955f517983,Mary Johnson,18,Other,"chest pain, shortness of breath, fatigue",Heart Disease
+deaa3dd7-c62b-437f-a4f8-cd2ed155fb13,James Owens,29,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+a5434cc3-c8d4-4c8a-aeb6-030dcbb92a1f,Joshua Larson,81,Male,"rash, itching, swelling",Allergic Reaction
+7fed488e-13c5-4a03-91c4-bf37f9a1c157,Seth Neal,90,Male,"headache, sensitivity to light, nausea",Migraine
+9edab893-cb4a-4869-9167-00de98176bac,Melissa Keith,98,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+84e4891a-0341-4253-9f77-aa7b388517cb,Matthew Decker,64,Female,"blurred vision, eye pain, redness",Conjunctivitis
+5ba8bfd7-5ffc-462e-b526-d4b8287dc7bb,Robert Love,53,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+da98e8bc-93e4-4bb5-b530-ef3f0d70323a,Mary Vasquez,3,Male,"fever, cough, shortness of breath",Flu
+1f7cfb58-4510-436e-852f-dd55e6b25dfa,Jocelyn Dawson,85,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+46d12a2e-6110-4220-ac30-80544a689588,Randall Fox,94,Male,"fever, cough, shortness of breath",Flu
+fc7f2b67-4a25-49d4-b51e-05cc198d756b,Rebecca Holt,50,Female,"headache, sensitivity to light, nausea",Migraine
+4db0c5d4-e4c0-4443-a749-f50fab8c3729,Phillip Lewis,94,Female,"rash, itching, swelling",Allergic Reaction
+93a60111-f150-418e-8971-f6502be60268,Julie Silva,80,Male,"frequent urination, thirst, fatigue",Diabetes
+8430063d-c7ee-4524-a8eb-56483fe29e27,Megan Baker,8,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+7f96a7e9-ab07-4759-aa61-c3f02eb7a017,Jason Sanders,32,Other,"fever, cough, shortness of breath",Flu
+31d363df-95d6-439b-8f66-5822799105f5,Gina Williams,44,Other,"sore throat, cough, fever",Common Cold
+eb8200eb-9c39-4972-b698-48cf26dcc283,Sarah Smith,4,Male,"joint pain, stiffness, swelling",Arthritis
+7dc1e95c-7113-4be2-8328-bae9f413fe3c,Sara Davis,51,Other,"frequent urination, thirst, fatigue",Diabetes
+5478c00a-d244-4de1-a588-3881024d90b8,Erin Hester,76,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+548033ab-d3d5-4933-bd7b-48a546dc1340,James Roberts,94,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+adcaa9d1-607b-4e14-b01f-d110c0cc9cd2,Michael Hayes,62,Other,"fever, cough, shortness of breath",Flu
+6f4d7acb-a14d-4cef-96d4-a5206c982f37,Thomas Porter,92,Female,"joint pain, stiffness, swelling",Arthritis
+88f4b8bc-0706-4b4c-b1b9-2a55bcf55f47,Jessica Phelps,52,Female,"joint pain, stiffness, swelling",Arthritis
+7f2bbf9d-3f8e-48f1-b3d7-3369a9567d56,Jill White,7,Other,"frequent urination, thirst, fatigue",Diabetes
+b37576f8-9757-4457-b060-d019210480c4,Jeffrey Price,84,Male,"joint pain, stiffness, swelling",Arthritis
+5a4ba064-6f28-4e9c-b9b7-0fde50f273b9,Derrick Nguyen,11,Female,"headache, sensitivity to light, nausea",Migraine
+57b37c5d-4797-4236-bdfc-3b3f52d5aad9,Laurie Dennis,15,Other,"joint pain, stiffness, swelling",Arthritis
+130f9ec7-8cf0-438a-bb74-48e2fa2cda00,Crystal Middleton,3,Other,"rash, itching, swelling",Allergic Reaction
+5da984c2-727b-4531-8103-2bd2e476399e,Erika Gentry,29,Female,"blurred vision, eye pain, redness",Conjunctivitis
+527fe69b-deb0-40f7-8dea-baceb652f83d,Stephen Robbins,34,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+0e9df399-662b-40ab-bc38-f0f2ca94a5f6,Margaret Terry,37,Other,"rash, itching, swelling",Allergic Reaction
+11c1c505-9a96-4c15-84f0-caa9fecc77f0,Joseph James,19,Other,"blurred vision, eye pain, redness",Conjunctivitis
+35eafa2c-bc64-4bd2-a10a-516be4fe0524,Steven Williams,2,Male,"rash, itching, swelling",Allergic Reaction
+be3bfd3d-02d5-4f2a-8388-e65630dcdec8,Henry Watson,16,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+aa2293b6-b7c8-41da-9ba6-2b096bc4133a,Vanessa Cardenas,42,Other,"sore throat, cough, fever",Common Cold
+67deef1c-650b-4eb1-b5bf-43ab9e545a4d,Ronald Lee,41,Female,"fever, cough, shortness of breath",Flu
+b62e10b0-da0b-4a97-be83-16180fab1bd2,Kimberly Avila,35,Female,"fever, cough, shortness of breath",Flu
+a3cf5dd2-95e9-4efd-8c60-458f7aae9550,Eric Brown,85,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+ffbbc79b-b56f-46f5-85f2-02eab7a6a849,Ann Kelly,44,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+7bb07f0c-79ab-4882-ada7-e9bdb9aba7d6,Keith Walker,15,Female,"sore throat, cough, fever",Common Cold
+12b04148-7d1b-4114-98ce-b776fb6109e9,Douglas Miller,17,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+4dc2bc66-417d-4e66-bae1-2a72302ba07c,Joseph Baker,79,Other,"blurred vision, eye pain, redness",Conjunctivitis
+7a22884b-4a3e-402a-83f0-968decb807f8,Catherine Franklin,10,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+f64ed282-6807-4623-9f3b-69246deceaf6,James Price,10,Other,"rash, itching, swelling",Allergic Reaction
+a5cb7d5b-7214-44e6-a5a9-08680961688a,Dan Foster,73,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+1eccffb4-d791-4c80-9e16-3608d74ce0b8,Paul Donovan,10,Male,"frequent urination, thirst, fatigue",Diabetes
+f73339d3-0e29-4975-be2d-bd3f3a825cd3,Michael Smith,58,Male,"frequent urination, thirst, fatigue",Diabetes
+dc998cd2-6b22-4a66-b00d-29de54aefebb,Kendra Paul,13,Other,"fever, cough, shortness of breath",Flu
+4e5aac5c-e93d-4d09-9328-c4fa51f4782a,Amy Flowers,56,Female,"sore throat, cough, fever",Common Cold
+d10ce905-2ba7-4e23-88fb-90f1ad54749f,Ryan Reynolds,98,Male,"blurred vision, eye pain, redness",Conjunctivitis
+8052f729-ced0-4984-8855-5aeaa8097dfc,Kathy Hunt,77,Other,"sore throat, cough, fever",Common Cold
+621964ca-c53e-49d3-a7d0-aedc67d92df4,Heather Payne,11,Other,"blurred vision, eye pain, redness",Conjunctivitis
+ccc334ee-3370-4bba-90bc-ea6a1394514f,Tiffany Bush,13,Other,"rash, itching, swelling",Allergic Reaction
+ab4de392-0606-4509-884d-35f2f9043828,Laurie Nguyen,25,Male,"rash, itching, swelling",Allergic Reaction
+67ba1df4-6182-4d0b-aeee-5db9c70b982a,Daniel Garcia,49,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+c223599a-c9dd-4a88-a0d8-e2f7a1de189f,Katelyn Taylor,11,Female,"rash, itching, swelling",Allergic Reaction
+1370b224-3718-4bf6-909d-299f54d9c76d,Theresa Wright,33,Female,"headache, sensitivity to light, nausea",Migraine
+874f7e12-7ef0-44fb-8f81-c4cc97f397d9,John Cook,88,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+1600c76d-d319-475e-91d2-085eee8bc808,Dawn Watson,41,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+2a45c40a-6c6b-4cce-91a4-720d7c953be1,Krista Daniels,57,Other,"joint pain, stiffness, swelling",Arthritis
+7457c585-3b89-465d-9b78-436bf44ed377,Haley Howe,27,Female,"sore throat, cough, fever",Common Cold
+bc492dd5-6f28-426b-993c-f8ce64fe6239,Amanda Young,75,Male,"frequent urination, thirst, fatigue",Diabetes
+bb27c64f-1ecf-4c72-8ca4-33cf981f507f,Belinda Gonzalez,13,Female,"joint pain, stiffness, swelling",Arthritis
+23017006-0957-4806-bacc-5c14763b9c33,Samantha Stewart,80,Male,"weakness, difficulty speaking, muscle twitching",Amyotrophic Lateral Sclerosis (ALS)
+1172d13c-ab75-4b36-848b-d256a0b83008,Timothy Frye,97,Male,"sore throat, cough, fever",Common Cold
+448509b1-ef05-412c-8955-57e2e51bb69d,Kathryn Fisher,91,Other,"fever, cough, shortness of breath",Flu
+89f30053-6b21-4e24-9815-cffc0f20c571,Amanda Weber,59,Male,"fever, cough, shortness of breath",Flu
+a944a259-bb1e-4319-b7b1-8fa705d58c35,Lisa Marshall,97,Other,"sore throat, cough, fever",Common Cold
+91509239-e465-4453-ada8-d156bf8fca38,Robert Carey,5,Female,"fever, cough, shortness of breath",Flu
+b36897de-5ea4-456a-9cc4-5a3c899034b9,David Vaughn,18,Female,"joint pain, stiffness, swelling",Arthritis
+b288c2b1-569e-49e6-a05a-be201a38abee,Kyle Burton,75,Male,"blurred vision, eye pain, redness",Conjunctivitis
+8bc96fd8-60a1-40db-b1ba-7f4e438a1e95,Peter Bennett,72,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+91b70de9-f80e-4fef-96d2-c91fb6bb6052,Sheila Parker,100,Female,"rash, itching, swelling",Allergic Reaction
+4c89c4ad-13d9-4cc3-b362-f025b613af1a,Mark Zamora,14,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+ca16463d-b074-4f52-a68c-492c37137c54,Andrea Jordan,59,Female,"sore throat, cough, fever",Common Cold
+65841de8-240b-4ad0-9331-b37179e65397,William Cook,2,Other,"fever, cough, shortness of breath",Flu
+f3875abf-9a53-4976-98d0-d363a0c51110,Stephanie Murray,70,Other,"frequent urination, thirst, fatigue",Diabetes
+d9182e85-35b3-454a-ae30-77ce883a7e3c,Amy Gordon,11,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+fdd530c1-b023-494d-ab66-17c593dace6f,Alec Bradley,97,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+6f1eb6cb-78d2-4fc8-83f5-21ca467fe1db,Rebecca Buchanan,62,Female,"fever, cough, shortness of breath",Flu
+bffabed8-4454-40c2-bc92-05b85cea297d,Joseph Young,91,Female,"fever, cough, shortness of breath",Flu
+46b58999-5122-4f74-b6eb-11ee90218a9d,Melinda Jefferson,70,Other,"headache, sensitivity to light, nausea",Migraine
+552158ee-1349-4fa5-9970-c28ab44d61a1,Samantha Barnett,35,Male,"rash, itching, swelling",Allergic Reaction
+9d844ff4-1b55-4be5-aa6c-873c95f6e5a0,Deanna Lam,9,Other,"blurred vision, eye pain, redness",Conjunctivitis
+48874c56-2415-44f9-af3d-9e15b161cd23,Kathy Robinson,32,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+96d61766-e9d4-4a95-89f0-efa653b6a465,David Russell,21,Other,"blurred vision, eye pain, redness",Conjunctivitis
+dff702a9-f2f0-4836-8140-ec704b744490,Deborah Bell,97,Male,"frequent urination, thirst, fatigue",Diabetes
+2a6a214e-bf64-4ab8-b8bb-5168020c2caf,Pamela Hurley,5,Male,"joint pain, stiffness, swelling",Arthritis
+e56c2455-5016-4ace-9264-2f385e89b2f3,Miranda Gonzalez,96,Female,"joint pain, stiffness, swelling",Arthritis
+b42b88e8-649b-45e9-86db-d8fb43cd171b,Jeffrey Ray,13,Other,"frequent urination, thirst, fatigue",Diabetes
+c5e20c76-752d-4c70-928f-7429728731d8,Kerry Owen,27,Male,"rash, itching, swelling",Allergic Reaction
+3122d81b-8ba3-4927-8ae8-2713beadac56,Gary Sanchez,80,Other,"joint pain, stiffness, swelling",Arthritis
+aef754dc-1b0d-4afa-bfa0-1efa873623b4,Jennifer Mckenzie,81,Male,"frequent urination, thirst, fatigue",Diabetes
+3c7bc858-0636-4b1d-98f1-cb18ba925453,Jennifer Stein,57,Female,"frequent urination, thirst, fatigue",Diabetes
+40412281-eb5d-4fd6-abe5-30bcd2ce0511,Terri Steele,2,Male,"headache, sensitivity to light, nausea",Migraine
+1b03b502-52c9-476e-b571-39388ee5d95f,Andrew Scott,16,Other,"rash, itching, swelling",Allergic Reaction
+c4244633-7714-4829-9462-a9d6f8d6df16,Dennis Stone,34,Female,"headache, sensitivity to light, nausea",Migraine
+700950d2-b86c-49be-9cd6-7b9430ef0f30,Lauren Smith,90,Female,"headache, sensitivity to light, nausea",Migraine
+bcdc3674-6b28-4ace-83b2-e502eb297c2a,Samuel Wheeler,82,Male,"rash, itching, swelling",Allergic Reaction
+7a415bfb-917b-427c-abcc-06681e40061f,Steven Lambert,85,Other,"rash, itching, swelling",Allergic Reaction
+5a01dce9-8414-4b89-bc99-89a1439dd5be,Alexander Kemp,93,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+9f55ef00-aa05-444f-b202-67a0806cfb04,Derrick Vaughan,19,Male,"headache, sensitivity to light, nausea",Migraine
+68aec03a-6b71-4355-87e7-2a638f04d42c,Rebecca Armstrong,23,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+0a1e1391-4268-40de-8a00-ac0605270714,Margaret Reynolds,64,Other,"headache, sensitivity to light, nausea",Migraine
+b65376bb-467b-45ba-8ae8-11cf7f327ce0,Tina Johnson,54,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+3498abbd-356d-43e7-a231-7ae417227bd9,Christine Dawson,18,Male,"fever, cough, shortness of breath",Flu
+6ec2a222-0bea-411b-90d5-8beba0ed3a9a,Robin Haynes,46,Male,"fever, cough, shortness of breath",Flu
+efec5694-dfcc-4697-90b8-5002dc155011,Rhonda Collins,82,Male,"blurred vision, eye pain, redness",Conjunctivitis
+c0d54bbe-dd78-4026-a5cf-7f1aaeea7862,Candace Rose,41,Male,"rash, itching, swelling",Allergic Reaction
+8301d0eb-ac33-4279-bc30-55f08811a6bc,Dustin Brown,35,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+8a5cf2d0-5c68-49fd-9063-60309ab7552e,Willie Stevens,88,Other,"sore throat, cough, fever",Common Cold
+941efb28-1aa7-438c-8fef-14fc722b474c,Stefanie Sims,7,Other,"chest pain, shortness of breath, fatigue",Heart Disease
+80a681f2-6646-4c35-9802-a72871e44203,Jonathan Rivera,85,Male,"rash, itching, swelling",Allergic Reaction
+06efca68-5a57-4d13-a28a-02478e390418,Kelli Lopez,5,Male,"blurred vision, eye pain, redness",Conjunctivitis
+3f54749a-ae13-45e4-b8d0-72f7a1697008,Vickie Harrison,36,Other,"headache, sensitivity to light, nausea",Migraine
+3aff7af9-e954-4d66-b315-9b83bda05aa6,Angela Church,7,Other,"headache, sensitivity to light, nausea",Migraine
+fa9aff71-b5da-483e-85b6-5f4a22fd56b1,Jessica Williams,27,Other,"sore throat, cough, fever",Common Cold
+7bfae863-56c1-4c98-b905-dd57bd807bd6,Tamara Little,60,Female,"joint pain, stiffness, swelling",Arthritis
+d1ccb4c7-b99a-455e-8642-666c53daf2af,Stephen Flores,55,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+e9d2f7af-c217-4bf0-8f0f-3c47a70209b7,Wendy Thornton,96,Female,"fever, cough, shortness of breath",Flu
+1de554e8-425b-408b-ba0d-62c6111b102a,Julia Kim,86,Male,"blurred vision, eye pain, redness",Conjunctivitis
+d258cca5-b387-4d8e-b12b-b45a1b731c1e,Kenneth Johnson,47,Other,"blurred vision, eye pain, redness",Conjunctivitis
+8fc932e3-456e-4ccf-8afb-20796cdca911,Nathan Cummings,26,Female,"high fever, chills, severe joint pain",Dengue Fever
+cfa3a9cf-1df2-4ae9-a1c4-4b6c9b02947b,Julia Sullivan,80,Other,"sore throat, cough, fever",Common Cold
+7d2f78a6-ac53-4319-8005-6d256f71b0f3,Tracy Sellers,7,Other,"sore throat, cough, fever",Common Cold
+ab518f79-e36f-4a91-b17b-f9c09e0603e7,Cesar Anderson,48,Female,"frequent urination, thirst, fatigue",Diabetes
+535b60bf-383e-439b-bd31-ed723ab36a14,Allison Rhodes,57,Female,"blurred vision, eye pain, redness",Conjunctivitis
+b67397ee-5390-4c9a-8731-b8d18665e3ed,Katherine Leach,44,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+f1cacbaa-d265-43fd-8bcd-929acc703fef,Kenneth Scott,83,Other,"chest pain, shortness of breath, fatigue",Heart Disease
+742255bc-889b-42d8-8a32-66b231fa9184,Charles Hardy,31,Male,"joint pain, stiffness, swelling",Arthritis
+461d65d9-f164-4b2d-951f-aa0b7867d021,Virginia Holmes,64,Other,"sore throat, cough, fever",Common Cold
+faf4595d-7b4f-4c17-8fbc-a1da0103fcd1,Daniel Olson,63,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+5ece19cf-3b6e-4f03-8135-fe3e707f449e,Robert Jones,73,Female,"blurred vision, eye pain, redness",Conjunctivitis
+cfc6d3d9-a958-45ed-9fdc-61b968ce309b,Robert Guerrero,24,Female,"blurred vision, eye pain, redness",Conjunctivitis
+59f5e248-fa1e-4b7a-a830-33e4565a46f1,Victor Wells,66,Other,"headache, sensitivity to light, nausea",Migraine
+90e899b7-1f21-4caa-8193-0682e1e872dc,Michael Ruiz,93,Male,"blurred vision, eye pain, redness",Conjunctivitis
+420b352c-4196-46e3-b4ed-597e8ef4fccd,Beverly Espinoza,3,Male,"sore throat, cough, fever",Common Cold
+b3dfdf0d-0302-45e6-b550-c46429475f55,Melanie Lane,68,Other,"joint pain, stiffness, swelling",Arthritis
+aba0a8bc-f6b5-4732-b13f-cd08233892bd,Frank Owen,96,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+43ecb613-9494-401c-881f-552b4b7cfbf9,Louis Morse,3,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+45bb1293-282a-4b4d-80dc-7be278387926,Christy Church,27,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+a040f840-f554-471b-9253-5b30746590a5,Angela Conley,19,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+d740137e-ce36-4dc3-a539-44e53a067ac2,Ryan Smith,59,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+1c473703-0028-44e9-b4ef-83cc39f8dcb0,Nathan Walker,35,Male,"headache, sensitivity to light, nausea",Migraine
+377fcebb-6a4b-43ea-aa3e-68586a80bd5a,Amanda Wood,42,Female,"rash, itching, swelling",Allergic Reaction
+01897a84-004a-4a06-b34d-daa9d93ad2d1,Brandon Lewis,10,Female,"headache, sensitivity to light, nausea",Migraine
+42a2eff9-8d1e-4955-ac17-1a8afb628809,Billy Roberson,46,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+6e77e6ae-0fb0-49fa-ae2c-24752b348eb7,Steven Cohen,53,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+a75b51d3-2fa3-4215-a1f8-0fce19e71ed8,Christopher Warner,44,Male,"sore throat, cough, fever",Common Cold
+290c6eda-0e15-470c-8576-b3058b4b86b7,Wendy Gross,94,Other,"sore throat, cough, fever",Common Cold
+5cc14878-b39b-4d97-b782-99115cdfe41d,James Fitzpatrick,57,Other,"fatigue, weight loss, persistent cough",Tuberculosis
+d4cca76e-f8df-45c5-bc6f-ffa434cbed3c,Kevin Porter,4,Female,"headache, sensitivity to light, nausea",Migraine
+406c5f08-532c-4145-8f9d-c9881c46bed3,Rebecca Scott,21,Other,"frequent urination, thirst, fatigue",Diabetes
+a059528e-5580-464f-937e-32e183eb6754,Mary Barnett,18,Male,"blurred vision, eye pain, redness",Conjunctivitis
+2610d8d9-7972-41a3-a2c5-e6dc0ea0675f,Mary Patrick,71,Male,"headache, sensitivity to light, nausea",Migraine
+ff187bd8-24c4-41ec-b730-4632eebde661,Melissa Newton,13,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+f02f0222-2b7f-46f3-8ea9-e99400c1eb39,Allison Jones,23,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+03ae3ec1-8133-4029-8d5b-9c4ab209cc38,Alice Gomez,8,Other,"fever, cough, shortness of breath",Flu
+f23528d8-6245-4721-a65a-f5427c39e1cf,Stephen Garcia,82,Other,"frequent urination, thirst, fatigue",Diabetes
+8abc8773-e1ae-43d4-b97f-e735f6b115ff,Hannah Osborne,97,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+5bcc45b5-e0cf-4774-8bd8-6c0e5007c04e,Tyler Lopez,48,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+c40ac782-d299-4e0f-98af-e0c0e8de8062,Anthony Carr,25,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+f796a862-9788-4098-94b4-16469be4aa1a,Robert Daniels,96,Female,"sore throat, cough, fever",Common Cold
+9136c476-b281-499e-9c49-1145faf7932c,Bethany Mcdonald,85,Female,"frequent urination, thirst, fatigue",Diabetes
+e432e8aa-7b37-424d-9753-8060bace31e2,William Sanchez,48,Female,"fever, cough, shortness of breath",Flu
+ad039d36-de9b-4f4a-9b29-a5c79d480dac,Dalton Myers,70,Female,"blurred vision, eye pain, redness",Conjunctivitis
+c2d5c05d-70a2-4f80-b15d-a8dd3eb7015f,Richard Thompson,17,Female,"headache, sensitivity to light, nausea",Migraine
+732371a0-f70f-458e-8e59-a1f6e7db10fe,Shane Morales,65,Other,"sore throat, cough, fever",Common Cold
+49f4880a-ed62-48ab-a1d0-6180cb2969da,Elizabeth Edwards,80,Female,"frequent urination, thirst, fatigue",Diabetes
+dc74c232-3186-4d8d-890a-30275f530569,Ashley Rivera,91,Other,"headache, sensitivity to light, nausea",Migraine
+e4fa986d-a3b1-4caf-8c51-8255e84d9925,Todd White,46,Male,"rash, itching, swelling",Allergic Reaction
+2886eb68-e5ba-4b4f-8bbf-dd7d514faa6f,James Knight,15,Female,"headache, sensitivity to light, nausea",Migraine
+daa1a0a4-0339-4ccd-b947-55b049068047,Susan Rhodes,77,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+292b1e48-1a99-4155-905d-fa9b1025c6c8,Jacqueline Fleming,94,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+fb1080f2-c1b5-4eb6-ae23-d0b474dfb204,Craig Hughes,53,Female,"blurred vision, eye pain, redness",Conjunctivitis
+948b973d-d1ad-4842-ad84-bb937fe55c95,Pamela Ramos,17,Other,"headache, sensitivity to light, nausea",Migraine
+0990f998-d99b-4140-b0c6-346deebf7982,Leslie Taylor,71,Male,"blurred vision, eye pain, redness",Conjunctivitis
+4804c657-f52d-42b4-846b-a443b558e7b6,Andrew Fischer,33,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+73bf6ce1-8233-4e2e-932e-3d36afd610c7,Joe Livingston,76,Male,"blurred vision, eye pain, redness",Conjunctivitis
+3f5dd8bd-8901-41a8-b5ef-34ea2a2fb5cb,Troy Miller,54,Other,"sore throat, cough, fever",Common Cold
+69fb2fa3-d9bd-4fb2-ab85-d646efdf7a4c,Bob Holland,61,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+2a3299d2-db38-45f9-b44c-c05981da2252,Brian Rodgers,5,Other,"high fever, chills, severe joint pain",Dengue Fever
+d542d9b3-1658-406f-9624-f2b5a2dc9f7e,Karl Clark,100,Other,"sore throat, cough, fever",Common Cold
+cfd4cb21-8ae0-4909-b299-200f8a7749fe,Vanessa Murphy,27,Male,"headache, sensitivity to light, nausea",Migraine
+60d8625e-10c7-4486-8e6c-cd0642965e64,Rose Taylor,91,Male,"headache, sensitivity to light, nausea",Migraine
+1dd366ac-ee3a-4f81-8d29-fb9097b8b20d,Lance Krueger,11,Female,"rash, itching, swelling",Allergic Reaction
+cc068374-fa34-4ef4-84cd-2a8e220f99ca,Michele Caldwell,51,Male,"sore throat, cough, fever",Common Cold
+fda6288f-273a-4113-a4a9-1bd9ec04d5fd,Debra Franco,75,Other,"headache, sensitivity to light, nausea",Migraine
+89052b90-a05c-4e9b-a94f-88680e118dab,Alexa Wright,17,Male,"fever, cough, shortness of breath",Flu
+47974013-9062-4036-beb0-f743cc1392e1,Emily Craig,20,Other,"frequent urination, thirst, fatigue",Diabetes
+633097a5-54cc-45ce-9d6d-7e13769eccd3,Thomas Williams,35,Other,"blurred vision, eye pain, redness",Conjunctivitis
+d5d775ab-5c1f-4809-84e0-9168f3330181,Erik Hodges,16,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+5054e02b-b487-42e9-939e-a31737e6e58a,Jordan Smith,13,Other,"frequent urination, thirst, fatigue",Diabetes
+399f94de-aaa9-42e5-80b2-9f4370c45c10,Kimberly Hunter,82,Male,"headache, sensitivity to light, nausea",Migraine
+460c54bb-bd63-4e02-825d-960e4b173ad6,Emily Perez,27,Female,"headache, sensitivity to light, nausea",Migraine
+09aa8006-0865-4130-abb6-4579da3293c6,Emily Castillo,43,Female,"rash, itching, swelling",Allergic Reaction
+8ec16918-0e78-4e32-af17-64f92d018e57,Charles Watson,43,Female,"sore throat, cough, fever",Common Cold
+32d0f821-c079-4fde-a1ba-77f2822b15f5,Michelle Ellis,98,Other,"frequent urination, thirst, fatigue",Diabetes
+1df34071-ac34-4147-908a-9543ef5a2ccf,Ryan House,49,Female,"joint pain, stiffness, swelling",Arthritis
+06a6e0c1-a1f4-44d6-8b75-a910020308f7,Paula Harrison,95,Male,"sore throat, cough, fever",Common Cold
+d66c1db1-1a1f-40f6-838c-eac1002e1c0f,Claire Taylor,63,Other,"nausea, vomiting, abdominal pain",Gastroenteritis
+b22989f4-641b-4b0f-9a99-e32438b3ce46,Emily Smith,23,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+882d8d7b-298d-4561-8264-b0fd45c82de6,Meredith Martinez,26,Male,"sore throat, cough, fever",Common Cold
+6ed6721e-7fe7-48bf-8e89-782750595d73,David Ayala,16,Male,"headache, sensitivity to light, nausea",Migraine
+3318c0e8-d9f2-491d-acb9-b0ba61cf4395,Jason Phillips,89,Female,"blurred vision, eye pain, redness",Conjunctivitis
+84823a5c-37aa-4173-95f3-508c74279064,John Blackburn,42,Male,"frequent urination, thirst, fatigue",Diabetes
+e30859c2-deb8-49a9-ab22-be30068c1ed8,David Hall,60,Female,"chest pain, shortness of breath, fatigue",Heart Disease
+30592117-64f5-42b8-bd8b-3fed721a61de,Cynthia Johns,83,Male,"headache, sensitivity to light, nausea",Migraine
+65812164-ed91-42cf-8d0a-31bff46af2bd,Scott Young,84,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+1d899e08-e422-4cb9-a1e8-5981aefb5189,Carol Wilson,83,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+fc1647f4-0a4c-430d-9fef-5c1f676cc43b,Kelly Henderson,86,Male,"fatigue, weight loss, persistent cough",Tuberculosis
+79041fe5-d063-4e7c-8865-ef3f08484349,David Clark,63,Other,"sore throat, cough, fever",Common Cold
+93d0636a-c159-4430-a129-1183df5e8fa7,James Coffey,40,Male,"blurred vision, eye pain, redness",Conjunctivitis
+de72efb3-2aeb-4640-b13d-da574daa8d29,Sierra Smith,99,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+90318fb0-4ea2-46e8-aa90-8364b06b2c60,Angela Miller,26,Other,"joint pain, stiffness, swelling",Arthritis
+2fbbb89b-754e-4f97-b0e1-7cacabf78514,Wanda Martin,6,Male,"sore throat, cough, fever",Common Cold
+d4fbb5df-350d-44b2-a7b9-ba6b08ee04d7,Stephanie Hurley,38,Other,"sore throat, cough, fever",Common Cold
+c340886f-80bf-46cf-ad74-fa533f18dd7b,Rebecca Bentley,56,Female,"fatigue, weight loss, persistent cough",Tuberculosis
+07ef46bf-3c05-438a-be78-99176ac12202,Amy Davis,75,Female,"nausea, vomiting, abdominal pain",Gastroenteritis
+9e1d5d3c-ca00-4b1a-8f81-bba0b064ad5b,Emily Kent,16,Other,"frequent urination, thirst, fatigue",Diabetes
+e396bd8a-7871-4295-bd1b-c0b4059c10b1,Lisa Watson,3,Other,"fever, cough, shortness of breath",Flu
+a6adcec1-3143-4e50-9d5d-3804316f0bb5,Lori Rodriguez,59,Male,"blurred vision, eye pain, redness",Conjunctivitis
+2684e847-b054-4768-8fe5-fde3680ba475,Joseph Miller,38,Male,"chest pain, shortness of breath, fatigue",Heart Disease
+b7a49563-d12e-4ca7-a11b-ea142843ab83,Linda Gomez,17,Female,"rash, itching, swelling",Allergic Reaction
+72f4070f-7539-419b-a491-752e97765caa,Kathy Griffith,79,Female,"sore throat, cough, fever",Common Cold
+6ec7b3f9-0035-4b65-a1f2-561668e7c34a,Tiffany Taylor,8,Male,"fever, cough, shortness of breath",Flu
+314b3a34-e00d-4607-b705-ce1763d6d1d7,Christopher Gardner,77,Other,"chronic headaches, ringing in the ears, dizziness",Meniere's Disease
+f0e86cf7-202a-4c9e-9361-12144662e170,Kim Johnson,5,Other,"joint pain, stiffness, swelling",Arthritis
+0943ae6d-d8fd-49e1-bccd-74dd34a6dd1c,Michael Wilkinson,94,Male,"joint pain, stiffness, swelling",Arthritis
+ed520683-2386-4374-ad5b-c3a1eec8e988,Luis Melendez,64,Other,"headache, sensitivity to light, nausea",Migraine
+e4283883-4f65-4936-a6fa-8abd95408d89,Hannah Benson,72,Male,"blurred vision, eye pain, redness",Conjunctivitis
+53238fd0-5351-40d7-b4d1-91594068fb86,Miguel Escobar,90,Male,"fever, cough, shortness of breath",Flu
+e8b9eb27-7e53-42e7-a6d2-e9754e7a33ed,Wesley Garcia,61,Male,"nausea, vomiting, abdominal pain",Gastroenteritis
+5dcce522-e1b0-48a5-b936-41f8a34d7ffb,Monica Chaney,50,Other,"joint pain, stiffness, swelling",Arthritis
+696c1ea0-1d8a-4872-8fe4-44adc018d03f,Richard Rogers,96,Other,"frequent urination, thirst, fatigue",Diabetes
+d60a37c4-4af7-44d5-a4de-b85c822a5ff9,Michael Wilkins,60,Male,"rash, itching, swelling",Allergic Reaction

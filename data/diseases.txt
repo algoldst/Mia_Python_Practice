@@ -1,0 +1,11 @@
+1, Amyotrophic Lateral Sclerosis (ALS), weakness, difficulty speaking, muscle twitching, muscle cramps, slurred speech, difficulty swallowing
+10, Diabetes, frequent urination, thirst, fatigue, slow-healing wounds, extreme hunger, tingling in hands or feet, yeast infection, blurred vision
+15, Allergic Reaction, rash, itching, swelling, swollen lymph nodes
+5, Tuberculosis, fatigue, weight loss, persistent cough, coughing up blood, chest pain, shortness of breath
+20, Arthritis, joint pain, stiffness, swelling, reduced range of motion, inflammation, discoloration, joint sensitivity, warmth near joints
+20, Heart Disease, chest pain, shortness of breath, fatigue, dizziness, fainting, fatigue, shortness of breath, rapid heartbeats, swollen feet
+50, Common Cold, sore throat, cough, stuffy nose, runny nose, scratchy throat, sneezing, watering eyes, sore throat, headache, mild fatigue, green mucus
+22, Flu, Fever, Cough, Sore throat, Runny nose, stuffy nose, Body aches, Headache, Chills, Night sweats, Fatigue
+3, Gastroenteritis, Nausea, vomiting, diarrhea, abdominal pain, cramps, fever, headache, fatigue, dehydration, loss of appetite
+11, Migraine, unilateral headache, Throbbing sensation, pulsing sensation, sensitivity to light, nausea, vomiting, vertigo
+14, Strep Throat, Sore throat, Fever, Swollen lymph nodes, Red and swollen tonsils, Painful swallowing, Headache, Nausea, Vomiting, Halitosis, Rash
