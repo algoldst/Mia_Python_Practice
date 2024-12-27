@@ -28,12 +28,10 @@ def find_patient_commonalities(search_term: str) -> :
 
 
 def main():
-    # Step 1: Parse command-line arguments
-    #           [--output file.txt] <symptom1 symptom2 ... symptom>
-    # Step 1: Read in text from each file ( [year]_patient_data.txt )
-    # Step 2: Extract to tuples (name, age, patient_id, [symptoms], diagnosis) using regex
-    #           Hint: Use Regexr.com to build/test your regular expression!
+    # Step 0: Parse command-line arguments
+    #           [--output file.txt] <symptom>
+    # Step 1: Read in text from each file ( patient_records_[year].csv )
+    # Step 2: Extract to tuples (name, age, patient_id, [symptoms], diagnosis)
     # Step 3: Check for matching symptom; if match, add to list -> return
     # Step 4: Output pretty (command-line or file, depending on args): 
-[diagnosis] - [% of diagnoses with this symptom]
-    [year, patient_ID, name, age, symptoms]] 
+    # Step 5: Get frequency % for each matching diagnosis

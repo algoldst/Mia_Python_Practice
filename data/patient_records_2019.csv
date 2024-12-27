@@ -1,0 +1,563 @@
+Patient ID,Name,Age,Sex,Symptoms,Diagnosis
+FKN-76942,Joyce Rivera,43,Female,"mild fatigue,sore throat,stuffy nose,watering eyes,sneezing", common cold
+SFF-30453,Hannah Nelson,77,Male,"vertigo,throbbing sensation,vomiting", migraine
+NYQ-59285,Jason Russell,88,Other,"cough,green mucus,mild fatigue,runny nose,watering eyes,sore throat", common cold
+VVH-83837,Melissa Pratt,15,Other,"watering eyes,sneezing,sore throat,scratchy throat,green mucus,mild fatigue,headache", common cold
+YCS-67849,Jessica Nielsen,67,Male,mild fatigue, common cold
+MSW-94638,Matthew Garcia,65,Male,itching, allergic reaction
+POX-34306,Mrs. Tara Campos,98,Other,"difficulty speaking,weakness,muscle twitching,slurred speech,difficulty swallowing", amyotrophic lateral sclerosis (als)
+KYC-83873,Christina Turner,84,Female,"fever,runny nose,night sweats,fatigue,body aches,sore throat,chills,stuffy nose,cough,headache", flu
+DLY-96522,Sara Perez,96,Female,"sore throat,sore throat,watering eyes,scratchy throat,runny nose,green mucus,sneezing,stuffy nose", common cold
+MOK-69400,Danielle Berg,94,Female,"cough,green mucus,stuffy nose,mild fatigue,watering eyes,scratchy throat", common cold
+BLP-97956,Andrea Thomas,47,Male,"green mucus,watering eyes,stuffy nose,sneezing,mild fatigue,cough,sore throat,sore throat,headache,runny nose,scratchy throat", common cold
+YAT-03760,Travis Williams,64,Male,"fever,night sweats,chills,cough,stuffy nose", flu
+FIU-53081,Kathryn Elliott,46,Male,"unilateral headache,vertigo,vomiting", migraine
+WOP-13271,Carlos Hoffman,90,Male,"headache,scratchy throat,watering eyes,sore throat,runny nose,cough,sore throat", common cold
+OZP-47740,Melissa Stokes,55,Male,"fever,stuffy nose,chills,runny nose", flu
+CNS-82265,Craig Williams,20,Male,"cough,sore throat,scratchy throat,stuffy nose,headache,green mucus,runny nose,mild fatigue,sneezing,sore throat", common cold
+KKC-26419,Raymond Payne,18,Male,"thirst,fatigue,tingling in hands or feet", diabetes
+PEY-54732,Kelly Simpson,52,Male,"frequent urination,yeast infection,thirst,slow-healing wounds,extreme hunger,blurred vision", diabetes
+KIX-31466,Dawn Jones,40,Female,discoloration, arthritis
+SPH-38920,Elizabeth Munoz,8,Male,"extreme hunger,yeast infection,thirst,frequent urination,slow-healing wounds,blurred vision", diabetes
+MOL-11961,Kelsey Perry,42,Female,"chills,runny nose,night sweats", flu
+FBV-65298,Karen Davis,90,Female,"headache,vomiting,painful swallowing,red and swollen tonsils,fever,rash,sore throat,swollen lymph nodes", strep throat
+YPS-61734,Linda Armstrong,69,Male,"mild fatigue,sore throat,stuffy nose,scratchy throat,runny nose", common cold
+SZL-55979,Kyle Jones,23,Female,nausea, strep throat
+PAT-69760,William Williams,96,Female,"fatigue,stuffy nose,chills,runny nose,fever,headache,body aches,night sweats,cough", flu
+SBL-25855,Heidi Montgomery,43,Female,"mild fatigue,sore throat,stuffy nose,sore throat,runny nose,scratchy throat,sneezing,headache,green mucus", common cold
+XQR-67381,Kevin Brooks,73,Female,"fatigue,chills,runny nose,sore throat,fever,cough,headache,night sweats", flu
+MRZ-22178,Stephanie Quinn,51,Male,"thirst,blurred vision,fatigue", diabetes
+RUO-13422,Stephanie Watkins,50,Female,"stiffness,joint sensitivity,warmth near joints,inflammation,swelling,joint pain", arthritis
+RSF-10757,Frank Jackson,24,Female,"green mucus,headache,mild fatigue,stuffy nose,sneezing,watering eyes,runny nose,sore throat,scratchy throat", common cold
+QHJ-78322,Jordan Mcmahon,69,Female,"chills,body aches,fatigue", flu
+VUL-57796,Ryan Johnson,33,Female,"itching,swelling,rash", allergic reaction
+JMD-56619,Brittney Anderson,74,Other,"sneezing,mild fatigue,cough,sore throat,sore throat,green mucus,headache,scratchy throat", common cold
+VNU-29902,Stanley Klein,36,Female,"headache,scratchy throat,cough,stuffy nose,sore throat,green mucus,mild fatigue", common cold
+HJQ-48204,Jennifer Hogan,23,Female,"weight loss,coughing up blood,chest pain,persistent cough,shortness of breath,fatigue", tuberculosis
+HLH-57320,Nina Roth,22,Female,"night sweats,chills,stuffy nose,cough,fatigue,runny nose,body aches,headache", flu
+QBT-01865,Jordan Johnson,36,Other,"headache,fever,red and swollen tonsils,swollen lymph nodes,painful swallowing,nausea", strep throat
+JCY-97604,Gregory Moore,48,Female,persistent cough, tuberculosis
+JAR-98951,Samantha Sparks,65,Male,"swollen lymph nodes,sore throat,rash,halitosis", strep throat
+YNG-97104,Robert Wheeler DVM,23,Male,"shortness of breath,persistent cough,weight loss,chest pain,coughing up blood,fatigue", tuberculosis
+YYX-11622,Robin Harris,66,Male,"mild fatigue,sore throat,cough,stuffy nose,sore throat,headache,sneezing,green mucus,watering eyes,runny nose", common cold
+WWW-38429,Ashley Morales,2,Female,"swollen lymph nodes,rash", allergic reaction
+VIV-97451,Kenneth Robbins,87,Female,"fainting,dizziness,shortness of breath,rapid heartbeats,fatigue,fatigue,shortness of breath", heart disease
+XPL-04599,Derrick Thompson Jr.,55,Male,"reduced range of motion,warmth near joints,joint pain,discoloration,stiffness", arthritis
+EZF-42492,Andrew Murphy,77,Female,"chest pain,fainting,dizziness", heart disease
+EUE-87148,Hannah Armstrong,54,Female,"sneezing,mild fatigue,stuffy nose,cough", common cold
+XMV-78203,Peggy Hernandez,71,Male,halitosis, strep throat
+PUS-00659,Tamara Holmes,87,Male,"scratchy throat,mild fatigue,stuffy nose,watering eyes", common cold
+IIK-16690,Scott Knight,6,Female,"vertigo,throbbing sensation,pulsing sensation,unilateral headache", migraine
+VRU-60044,Lisa Avery MD,19,Male,"runny nose,night sweats,headache,stuffy nose,cough,fever,chills", flu
+MXA-83069,Christopher Oneill,56,Female,"dizziness,fatigue,chest pain,swollen feet,rapid heartbeats,shortness of breath", heart disease
+YQG-07274,James Jordan,13,Male,"joint pain,swelling,warmth near joints,discoloration,inflammation,joint sensitivity,stiffness,reduced range of motion", arthritis
+SIA-50942,Sharon Marshall,1,Other,"chest pain,fatigue", heart disease
+QOD-26013,Ashley Leonard,85,Male,"runny nose,headache,sore throat,mild fatigue,sore throat,sneezing,scratchy throat,cough,stuffy nose,watering eyes", common cold
+YFR-63281,Eric Cummings,74,Other,"shortness of breath,shortness of breath,fainting,swollen feet,rapid heartbeats,chest pain,fatigue,fatigue", heart disease
+EBB-83479,Luke Brown,83,Male,"painful swallowing,rash,headache,red and swollen tonsils,swollen lymph nodes,fever,nausea", strep throat
+TRH-55312,Michael Norman,24,Female,"mild fatigue,green mucus,sneezing,runny nose,headache,scratchy throat,stuffy nose,watering eyes", common cold
+HIA-54780,Douglas Paul,40,Other,"stuffy nose,cough,chills,body aches", flu
+QJB-54495,Natasha Murphy,99,Female,"nausea,unilateral headache,pulsing sensation,vertigo,vomiting,throbbing sensation", migraine
+EMD-14649,Dawn Sanchez,36,Male,"stiffness,inflammation", arthritis
+GIM-39048,Alyssa Wiley,20,Male,"joint pain,swelling", arthritis
+SRK-68202,Edward Hicks,10,Female,"frequent urination,slow-healing wounds,thirst,yeast infection,fatigue,extreme hunger,tingling in hands or feet,blurred vision", diabetes
+EYL-19380,Victor Ray,60,Male,"sneezing,sore throat", common cold
+WVW-12824,Lisa Martin,59,Female,"chest pain,swollen feet,fatigue,fatigue,rapid heartbeats", heart disease
+ILZ-02105,Chad Wolf,79,Other,"stiffness,discoloration,warmth near joints", arthritis
+WPF-22429,Aaron Wright,12,Female,"slow-healing wounds,thirst,tingling in hands or feet", diabetes
+SHL-21733,Terry Rogers,56,Female,"sensitivity to light,vertigo,vomiting,throbbing sensation,unilateral headache,pulsing sensation", migraine
+AGV-05358,Brittany Moreno,85,Other,"cough,sore throat,scratchy throat", common cold
+DNC-90735,Evelyn Parrish,37,Female,"stuffy nose,cough,watering eyes,green mucus", common cold
+ADA-71509,Damon Peterson,42,Female,"slow-healing wounds,frequent urination,thirst,tingling in hands or feet,fatigue", diabetes
+FZH-19411,Teresa Day,45,Female,"headache,sneezing,sore throat,watering eyes,green mucus,runny nose,sore throat", common cold
+JCP-19900,Francisco Cannon MD,42,Male,"fever,vomiting,headache,cramps", gastroenteritis
+TUD-95883,Mrs. Jennifer Reyes,64,Female,"sneezing,cough,mild fatigue", common cold
+SCK-53865,Danny Wilson,26,Male,"chills,fever,sore throat,headache,body aches,runny nose,night sweats,stuffy nose,cough,fatigue", flu
+EKC-45836,John Strickland,23,Male,"nausea,vomiting,vertigo,unilateral headache,throbbing sensation,sensitivity to light,pulsing sensation", migraine
+IPH-07075,Mark Gregory,99,Female,"chest pain,persistent cough,weight loss", tuberculosis
+GDT-67149,Mary Campbell,56,Male,"stuffy nose,runny nose,sore throat,green mucus,scratchy throat,headache,sore throat,watering eyes,mild fatigue,sneezing", common cold
+IPZ-49887,Tony Lopez,49,Female,"sneezing,green mucus", common cold
+DMD-83249,Jim Martinez,51,Other,"rash,swelling,swollen lymph nodes,itching", allergic reaction
+TZF-39374,Loretta Sutton,65,Male,"joint pain,stiffness,reduced range of motion,warmth near joints,swelling,joint sensitivity", arthritis
+XOR-24163,Lynn Joseph,91,Female,"itching,rash", allergic reaction
+SBJ-56023,Jesse Howard,73,Female,"runny nose,sneezing,sore throat,watering eyes,stuffy nose", common cold
+NHV-16152,Jessica Lewis,40,Female,"stuffy nose,scratchy throat,sore throat,green mucus,sore throat,cough", common cold
+DEY-85653,Renee Faulkner,16,Male,"cough,green mucus,watering eyes,runny nose,scratchy throat,sneezing,mild fatigue,sore throat,headache,sore throat", common cold
+KWV-24712,Dale Roman,29,Male,"watering eyes,scratchy throat,sore throat,headache", common cold
+YRE-61638,Brianna Obrien,74,Female,"stiffness,warmth near joints,swelling,inflammation", arthritis
+MKH-98297,Tyler Davis,86,Male,"nausea,unilateral headache", migraine
+ZEP-37146,Judith Elliott,30,Other,"green mucus,stuffy nose,runny nose,cough,mild fatigue", common cold
+YDS-28115,Jacqueline Boyd,73,Female,"fatigue,rapid heartbeats,chest pain,swollen feet", heart disease
+GAU-94941,Sydney Clayton,82,Male,"sore throat,scratchy throat", common cold
+MOP-24953,Natasha Gardner,42,Male,"fatigue,swollen feet,shortness of breath,dizziness", heart disease
+LUB-18661,Cheyenne Weaver,12,Female,chest pain, heart disease
+YQN-17721,Christopher Lee,73,Male,"red and swollen tonsils,nausea,headache,halitosis,vomiting,sore throat", strep throat
+WNC-57429,Jamie Cox,8,Male,"green mucus,scratchy throat,sore throat,watering eyes,runny nose,stuffy nose,headache,sneezing,mild fatigue,sore throat", common cold
+DSM-81784,Amanda Erickson,64,Male,swollen lymph nodes, allergic reaction
+SDA-54350,Catherine Perry,73,Female,"stuffy nose,chills", flu
+GTR-29558,Tyler Stephens,88,Female,"green mucus,scratchy throat,runny nose", common cold
+DPJ-17374,Oscar Carey,84,Male,"nausea,sensitivity to light,pulsing sensation", migraine
+OSR-07691,Brandon Lee,79,Male,"headache,sneezing,sore throat,scratchy throat,stuffy nose,watering eyes,mild fatigue,cough,runny nose,sore throat,green mucus", common cold
+NBA-53610,Paige Hernandez,82,Female,fatigue, heart disease
+PRS-85122,Justin Rivera,58,Male,"stiffness,discoloration,reduced range of motion,swelling,joint pain,joint sensitivity", arthritis
+PHM-84987,Paul Morris,84,Male,"green mucus,sore throat,scratchy throat,mild fatigue,runny nose", common cold
+UGM-01124,Theresa Tyler,15,Male,"rash,swelling,swollen lymph nodes", allergic reaction
+QDZ-04742,Charles Rodriguez,61,Female,"stuffy nose,cough,watering eyes,headache,sore throat", common cold
+XCK-17395,Mary Thomas DVM,98,Female,"headache,stuffy nose", common cold
+HTQ-95674,Derek Moore,56,Other,"throbbing sensation,vertigo,vomiting,unilateral headache", migraine
+IRT-15928,Barry Dunn,52,Female,"sore throat,scratchy throat,green mucus,sore throat,sneezing,headache", common cold
+ALG-78392,Kelsey King,71,Female,"swelling,warmth near joints", arthritis
+LGA-25277,Brenda Wilson,30,Female,chest pain, heart disease
+POR-79296,Michael Pierce,47,Male,"rash,swelling,swollen lymph nodes,itching", allergic reaction
+NOO-76028,Maria Edwards,19,Male,"mild fatigue,runny nose,cough,stuffy nose,sore throat,scratchy throat,sneezing", common cold
+ODT-07794,James Thompson,36,Male,"stuffy nose,chills", flu
+UFZ-47976,Heather Martinez,56,Female,shortness of breath, heart disease
+MZK-09000,Ryan Stewart,87,Male,"shortness of breath,rapid heartbeats,swollen feet,fainting", heart disease
+XGG-24568,Kevin Reid,56,Female,"headache,cough,stuffy nose,runny nose,chills,fatigue,body aches,sore throat,night sweats", flu
+NJZ-92165,Chelsea Williams,87,Male,"stuffy nose,sneezing,scratchy throat,green mucus,sore throat,runny nose,watering eyes,cough,mild fatigue,sore throat,headache", common cold
+ODN-19235,Nicholas Henderson,99,Other,sore throat, common cold
+WNU-12212,Debra Mcdonald,94,Male,"swelling,joint pain,stiffness,reduced range of motion,inflammation", arthritis
+QKW-52635,John Douglas,52,Female,"sore throat,scratchy throat,headache,sore throat,mild fatigue,cough,stuffy nose,green mucus,watering eyes,sneezing", common cold
+QPR-71715,Michael Ball,78,Male,"red and swollen tonsils,vomiting,sore throat,swollen lymph nodes,headache,nausea", strep throat
+RIU-14314,Scott Kelly,95,Male,"chills,headache,body aches,cough,runny nose,fatigue,fever", flu
+QCS-00336,Amber Schwartz,99,Other,"headache,sore throat,scratchy throat,runny nose,green mucus,stuffy nose,watering eyes,cough,sneezing,sore throat", common cold
+CUE-98394,Samantha Merritt,17,Male,"mild fatigue,runny nose,scratchy throat,watering eyes", common cold
+DSI-29585,Paul Jackson,67,Male,"night sweats,body aches,headache,sore throat,cough,stuffy nose,chills", flu
+ALR-16201,Brandon Greene PhD,45,Other,"swollen lymph nodes,rash,itching", allergic reaction
+AKD-45924,Erin Mendez,52,Male,"stuffy nose,cough,scratchy throat,sore throat,sneezing,headache,mild fatigue,sore throat,watering eyes,green mucus", common cold
+ATP-62402,Sharon Gray,74,Other,"nausea,swollen lymph nodes,halitosis,fever", strep throat
+KWG-47112,Jonathan Williams,95,Male,"swollen lymph nodes,vomiting,rash,painful swallowing,headache,nausea,sore throat,red and swollen tonsils,fever,halitosis", strep throat
+GAQ-01813,Rebecca Murphy DVM,33,Female,"headache,sore throat,fatigue,chills,fever", flu
+XJY-97083,Jonathan Griffin,4,Female,"swelling,reduced range of motion,joint sensitivity,stiffness", arthritis
+QTL-33356,Justin Byrd,32,Other,"joint pain,discoloration,warmth near joints,inflammation,reduced range of motion", arthritis
+NSC-55722,Rodney Short,12,Female,swollen lymph nodes, allergic reaction
+RZM-51898,Kayla Moore PhD,6,Female,warmth near joints, arthritis
+RSJ-00876,Joseph Thomas,65,Female,"pulsing sensation,sensitivity to light,vomiting,unilateral headache,vertigo", migraine
+ZKD-55372,Matthew Brown,44,Other,"watering eyes,green mucus,runny nose,scratchy throat,sore throat,headache,stuffy nose", common cold
+RTE-34311,Amy Christian DVM,71,Female,"blurred vision,frequent urination,tingling in hands or feet,fatigue", diabetes
+BCK-54078,Crystal Olsen,91,Male,"swelling,itching,swollen lymph nodes", allergic reaction
+QCF-02223,Natasha Banks,65,Male,"nausea,vomiting,sensitivity to light", migraine
+TFI-00512,Scott Sparks,93,Other,"watering eyes,scratchy throat,runny nose,headache,sore throat,stuffy nose", common cold
+FQM-42165,Rachael Miller,60,Male,"mild fatigue,scratchy throat", common cold
+FUW-71787,Heather Baker,28,Female,"rash,swelling,swollen lymph nodes", allergic reaction
+DHZ-61506,Aaron Bass,25,Male,persistent cough, tuberculosis
+HFR-38379,Brian Brown,37,Male,"weight loss,chest pain,coughing up blood,persistent cough,shortness of breath,fatigue", tuberculosis
+KKB-58281,Pamela Ramirez,50,Male,"discoloration,joint pain,swelling,reduced range of motion,joint sensitivity", arthritis
+FWN-78126,Leslie Santiago,8,Other,"stuffy nose,night sweats,runny nose,cough,fever", flu
+BWV-28942,Raven Hubbard,19,Female,"chest pain,weight loss,shortness of breath,coughing up blood,persistent cough", tuberculosis
+QLQ-78964,Patrick Allen,9,Male,"fatigue,slow-healing wounds,blurred vision,frequent urination,tingling in hands or feet,yeast infection", diabetes
+EMT-25806,Christopher Williams,70,Male,"rash,swollen lymph nodes,swelling", allergic reaction
+BBA-53267,Matthew Jennings,1,Female,"headache,mild fatigue,sore throat,sneezing,cough,green mucus,runny nose,stuffy nose,sore throat,watering eyes", common cold
+ZOI-07639,Mark Shannon,77,Other,"rash,painful swallowing,nausea", strep throat
+GFL-28269,Karen Miller,41,Female,"sore throat,sore throat,mild fatigue,sneezing,runny nose,cough", common cold
+BJE-55235,Brianna Flowers,91,Other,"itching,rash,swelling", allergic reaction
+FYE-04656,Laura Martinez,93,Male,"shortness of breath,fatigue", tuberculosis
+UED-33321,Sarah Clark,24,Other,"headache,sore throat,nausea,swollen lymph nodes,vomiting,rash,painful swallowing,halitosis", strep throat
+BXM-45231,April Bryan,34,Other,"shortness of breath,swollen feet,dizziness,shortness of breath,fainting,fatigue,fatigue,rapid heartbeats,chest pain", heart disease
+SBO-66878,David Hill,87,Male,vertigo, migraine
+LLB-83722,Jonathan Torres,38,Male,"swollen lymph nodes,rash", allergic reaction
+OVT-14026,Matthew Finley,25,Male,"headache,watering eyes,sore throat,scratchy throat,green mucus,runny nose,sore throat,cough,mild fatigue,stuffy nose,sneezing", common cold
+WDX-85638,Beverly Turner,82,Male,"fever,night sweats,chills,runny nose,cough", flu
+MRS-70911,Tracey Harper,17,Other,"sore throat,halitosis", strep throat
+LUQ-73502,Richard Greer,80,Female,"swelling,itching,rash,swollen lymph nodes", allergic reaction
+ZJV-64510,Bryan Stanley,39,Male,"fatigue,extreme hunger,blurred vision,slow-healing wounds", diabetes
+GGL-61218,Christopher Nichols,93,Other,"runny nose,watering eyes,sore throat,sneezing,cough", common cold
+TBI-51719,Joan Fuller,86,Male,headache, common cold
+BLZ-83330,Denise Clark,87,Female,"fatigue,shortness of breath,shortness of breath", heart disease
+JLT-94258,James Young,24,Male,"fever,cough,fatigue,stuffy nose,headache,night sweats", flu
+STP-16648,Sarah Jones,78,Male,"headache,sneezing,sore throat,watering eyes,cough,mild fatigue,green mucus", common cold
+OWI-67283,Carol Pineda,36,Female,"shortness of breath,fainting,fatigue,chest pain,shortness of breath,swollen feet,rapid heartbeats,dizziness,fatigue", heart disease
+ZOO-75242,Katherine Chan,78,Female,vomiting, strep throat
+BKN-41807,Jeremy Smith,4,Other,"headache,watering eyes,sore throat,green mucus,stuffy nose,runny nose,sore throat,cough,sneezing,scratchy throat,mild fatigue", common cold
+LBS-24846,Francisco Morgan,39,Other,"sore throat,body aches", flu
+WOJ-58737,Dana Stephens,70,Male,"sneezing,stuffy nose,sore throat,sore throat", common cold
+ZAH-37330,Joshua Pena,95,Female,painful swallowing, strep throat
+YBF-36958,Paul Clark,81,Other,"painful swallowing,sore throat,headache,rash,fever,red and swollen tonsils,nausea", strep throat
+ZMD-48446,Stacy Johnson,41,Male,"fatigue,chest pain,dizziness,swollen feet,shortness of breath,fainting", heart disease
+BFI-18015,Joshua Sharp,34,Female,"swollen feet,shortness of breath,dizziness", heart disease
+LNL-30566,Emma Montgomery,33,Male,"warmth near joints,discoloration,stiffness,reduced range of motion,swelling,joint sensitivity", arthritis
+DBW-31452,Karen Tate,99,Female,"runny nose,sore throat", common cold
+SNX-55411,Rachael Dunn,36,Male,"cough,runny nose,chills,body aches,stuffy nose,sore throat,fever,night sweats,fatigue,headache", flu
+OYB-96844,Sharon Ramirez,62,Male,"shortness of breath,shortness of breath,chest pain", heart disease
+FQM-17129,Scott Wilson,21,Male,headache, flu
+EAV-27128,David Thomas,74,Female,"nausea,red and swollen tonsils,swollen lymph nodes,fever", strep throat
+YEY-04048,Katie Craig,86,Male,"fatigue,weight loss,persistent cough", tuberculosis
+ALJ-01423,Jeffery Lewis DDS,89,Male,"shortness of breath,weight loss,chest pain,fatigue,persistent cough,coughing up blood", tuberculosis
+BKI-36146,Michelle Velez,57,Female,"sore throat,runny nose,mild fatigue,stuffy nose,headache,scratchy throat,sore throat,green mucus,cough,sneezing", common cold
+PEO-64348,Ms. Regina Pearson,10,Other,"sore throat,red and swollen tonsils,rash,vomiting,headache,nausea,fever", strep throat
+JUN-11659,Hector Vaughn,58,Male,"cough,chills", flu
+MVU-74145,Lisa Oconnell,50,Female,"runny nose,sore throat,body aches,headache,cough,fever", flu
+MYL-95622,Robert Lawrence,87,Other,"fatigue,headache,night sweats", flu
+JHI-35264,Deborah Sullivan,79,Male,"chills,body aches,runny nose,stuffy nose,fatigue", flu
+CPA-92028,Tina Fernandez,12,Female,"inflammation,joint sensitivity,joint pain,stiffness", arthritis
+PIF-46340,Karen Jones,9,Female,"vomiting,rash,swollen lymph nodes,nausea,painful swallowing,halitosis,sore throat,red and swollen tonsils", strep throat
+QFO-54678,Bianca King,83,Female,"sensitivity to light,throbbing sensation,vertigo,nausea,pulsing sensation,vomiting", migraine
+OHO-17140,Travis Hill,33,Other,"fatigue,cough,headache,runny nose,sore throat,fever", flu
+GCE-21360,Michelle Vang,94,Female,"shortness of breath,fatigue,rapid heartbeats,fainting,fatigue,chest pain,dizziness,shortness of breath", heart disease
+HOS-07849,Charles Hernandez,18,Female,"chills,fatigue,stuffy nose,headache,sore throat,night sweats", flu
+AXO-59825,Jamie Waters,2,Female,rapid heartbeats, heart disease
+ECZ-59307,Andrew Schmidt,52,Male,"sneezing,green mucus,stuffy nose,mild fatigue,runny nose,sore throat,cough,sore throat", common cold
+GDA-44268,Charles Morales,63,Other,"sore throat,scratchy throat,mild fatigue,headache,sneezing,watering eyes,stuffy nose,green mucus,sore throat", common cold
+WTL-07601,Lindsey Ewing,28,Male,"chest pain,swollen feet,dizziness", heart disease
+JFH-96403,Mary Murphy,52,Female,"fatigue,rapid heartbeats,fatigue,chest pain,fainting", heart disease
+FRO-97997,Mr. Matthew Gonzalez,99,Other,"blurred vision,fatigue,tingling in hands or feet", diabetes
+ODG-13079,Angela Riley,27,Male,"sneezing,green mucus,sore throat,sore throat,runny nose,mild fatigue,watering eyes,stuffy nose", common cold
+LCU-70943,Matthew Wilson,65,Male,"discoloration,warmth near joints,stiffness,joint pain", arthritis
+AYT-61559,Jeremy Carrillo,17,Other,"yeast infection,thirst,tingling in hands or feet,blurred vision,extreme hunger,frequent urination", diabetes
+XQW-58794,Jeffrey Bennett,91,Female,"sore throat,watering eyes,sneezing,green mucus,cough,stuffy nose,headache,sore throat,runny nose", common cold
+DHT-73650,Heidi Humphrey,71,Male,"nausea,vertigo,sensitivity to light", migraine
+DQV-97650,Adam Ware,47,Male,chest pain, heart disease
+IJN-12328,Michael Dalton,80,Male,"extreme hunger,fatigue", diabetes
+BKZ-24062,Ashley Gonzalez,74,Other,"sore throat,sneezing,green mucus,headache", common cold
+OOV-84938,Zachary Benjamin,75,Other,"swollen lymph nodes,rash,itching,swelling", allergic reaction
+FKA-09260,Jason Golden,90,Female,"swollen feet,rapid heartbeats,shortness of breath,fatigue,fatigue", heart disease
+DPZ-20235,Amy Bailey,83,Female,"stuffy nose,sore throat", common cold
+JFM-07109,Anna Mayo,52,Male,stiffness, arthritis
+GFY-62259,Robert Barber,75,Female,"fever,chills,body aches,headache,runny nose,sore throat,night sweats,cough", flu
+UFD-49800,Bobby Payne,98,Male,"sore throat,green mucus,stuffy nose,headache,scratchy throat,runny nose,mild fatigue", common cold
+DMW-80252,Maria Tucker,71,Other,"yeast infection,frequent urination,slow-healing wounds,fatigue,extreme hunger,blurred vision", diabetes
+FTJ-44228,Matthew Silva,94,Male,"vomiting,sensitivity to light,unilateral headache,nausea,throbbing sensation,pulsing sensation,vertigo", migraine
+OXJ-65879,Jacqueline Oconnor,84,Other,"blurred vision,extreme hunger,tingling in hands or feet,slow-healing wounds,frequent urination,fatigue", diabetes
+HRL-81972,Gregory Thomas,21,Male,"runny nose,mild fatigue,sneezing", common cold
+DNN-07965,Stephen Perez,8,Female,"sore throat,sneezing,mild fatigue", common cold
+LKX-42622,Alison Jackson,4,Male,"sneezing,mild fatigue,stuffy nose,cough", common cold
+GSB-84798,Jeffrey Holloway,66,Female,"green mucus,sneezing,scratchy throat,cough,headache,stuffy nose,watering eyes,mild fatigue", common cold
+XHL-14773,Joseph Brown,98,Female,"slow-healing wounds,fatigue,blurred vision,extreme hunger,frequent urination", diabetes
+XWR-63548,Jacob Townsend,11,Female,"shortness of breath,swollen feet,chest pain,fainting,shortness of breath,rapid heartbeats,fatigue,dizziness,fatigue", heart disease
+ZWT-74836,Morgan Collins,97,Female,"sore throat,night sweats,stuffy nose,body aches,fever,runny nose,cough,chills", flu
+SCL-12644,Matthew Webb,19,Female,"scratchy throat,mild fatigue", common cold
+KIK-03692,Abigail Bennett,38,Female,"green mucus,cough,mild fatigue,sore throat", common cold
+BZG-65711,Kathryn Hill,96,Female,"inflammation,reduced range of motion,discoloration,joint pain,joint sensitivity,stiffness,swelling", arthritis
+DTG-23969,Shelley Smith,17,Male,"cough,chills,night sweats,stuffy nose,runny nose,fever,fatigue", flu
+WIC-19311,Darlene Fuller,71,Male,"night sweats,chills,runny nose,stuffy nose,body aches,headache", flu
+JQH-87227,Dr. Nicole Hart,46,Male,"rapid heartbeats,shortness of breath,dizziness,fatigue,shortness of breath,fainting,fatigue", heart disease
+TTB-13315,Chelsea Ramos,96,Male,"painful swallowing,headache,halitosis,fever,red and swollen tonsils,vomiting,nausea,sore throat,rash", strep throat
+XDO-62736,Corey Bond,89,Male,"sneezing,green mucus,sore throat,runny nose,mild fatigue,headache,scratchy throat", common cold
+AKR-56742,Martha Reynolds,57,Female,night sweats, flu
+ELG-93983,Ann Bennett,81,Other,"pulsing sensation,vomiting,unilateral headache", migraine
+SVY-80693,Taylor Mays,1,Other,rash, allergic reaction
+UNR-35721,Kenneth Jones,7,Male,"headache,cough,chills,body aches,fever,sore throat,stuffy nose,night sweats", flu
+JBJ-27345,Michelle Hudson DDS,56,Female,"stuffy nose,sore throat,watering eyes,headache,scratchy throat,cough", common cold
+NGE-57591,Richard Conrad,9,Male,"vomiting,sore throat", strep throat
+OYJ-06929,Jill Bryant,52,Female,"dizziness,shortness of breath,rapid heartbeats,chest pain", heart disease
+HMX-44049,Anna Logan,85,Other,"headache,abdominal pain,diarrhea,vomiting,loss of appetite,fatigue,cramps,dehydration,fever", gastroenteritis
+GYO-37065,Ian Houston,1,Female,"fatigue,fatigue", heart disease
+RLH-60473,Hannah Medina,2,Male,"warmth near joints,inflammation,joint pain,swelling", arthritis
+JKJ-12242,Amber Olson,94,Male,"nausea,throbbing sensation,vertigo,vomiting,unilateral headache", migraine
+LOR-07312,Ryan Palmer,37,Male,"swollen lymph nodes,rash", allergic reaction
+VOY-63614,Kristin Munoz,72,Male,"pulsing sensation,vomiting", migraine
+OFL-05526,Jenny Bishop,38,Male,"unilateral headache,throbbing sensation,pulsing sensation,vomiting,vertigo,nausea,sensitivity to light", migraine
+VFM-11242,Sharon Wilson,3,Other,"runny nose,scratchy throat,headache,watering eyes,sneezing,green mucus,cough,mild fatigue,sore throat,sore throat", common cold
+VKQ-39207,Julia Matthews,80,Female,"discoloration,joint sensitivity,joint pain", arthritis
+XJP-25108,George Johnson,30,Other,"swelling,rash", allergic reaction
+ZYT-32768,Ronald Green,22,Female,"rash,swelling,swollen lymph nodes", allergic reaction
+KCA-01510,Bryan Lewis,31,Female,"stiffness,joint pain,discoloration,warmth near joints,reduced range of motion", arthritis
+FXD-96402,Daniel Miles,64,Male,"fatigue,swollen feet,chest pain,shortness of breath,fatigue,dizziness,shortness of breath", heart disease
+ZWM-40644,Mr. Anthony Patrick,14,Female,"dizziness,shortness of breath,fainting,fatigue,fatigue,chest pain,shortness of breath,swollen feet", heart disease
+XQF-96333,Bryan Hunter,15,Male,"nausea,unilateral headache,sensitivity to light,vertigo,pulsing sensation,throbbing sensation", migraine
+QVP-60540,Jordan Mosley,58,Female,"nausea,vertigo,throbbing sensation,vomiting,unilateral headache,sensitivity to light,pulsing sensation", migraine
+XHF-30293,Kathleen Smith,22,Male,"rash,swollen lymph nodes,itching,swelling", allergic reaction
+THX-12529,Christopher Holland,89,Male,"extreme hunger,slow-healing wounds,blurred vision,frequent urination,yeast infection,thirst", diabetes
+WBU-38560,Cynthia Rivers,57,Male,"frequent urination,fatigue,thirst,blurred vision,tingling in hands or feet,slow-healing wounds,yeast infection", diabetes
+ZFW-96327,Kathryn Reed,14,Male,"fatigue,fatigue,fainting,swollen feet,dizziness,chest pain,rapid heartbeats,shortness of breath", heart disease
+NKF-27252,Blake Perry,87,Male,"scratchy throat,sore throat,headache,green mucus,stuffy nose,sneezing,mild fatigue,runny nose,watering eyes,sore throat,cough", common cold
+TQT-44657,James Rodriguez,37,Female,"stuffy nose,fatigue,fever,headache,chills", flu
+KPS-67629,Janet Miller,69,Male,"swollen feet,fatigue,fatigue,rapid heartbeats,shortness of breath,dizziness", heart disease
+BUL-06517,Dustin Rush,97,Male,"scratchy throat,watering eyes,green mucus,cough,sore throat,mild fatigue,runny nose,sore throat,stuffy nose,sneezing,headache", common cold
+OVK-73539,Cynthia Diaz,47,Female,"chest pain,fatigue,fainting,rapid heartbeats,fatigue", heart disease
+QIP-19850,Mary Johnston,49,Male,fever, strep throat
+NAY-92828,Donna Richards,66,Male,"watering eyes,stuffy nose,cough,sneezing,headache,scratchy throat", common cold
+GGC-08348,Ashley Jennings,40,Male,"swelling,rash,swollen lymph nodes", allergic reaction
+MON-94007,Kristen Lopez,84,Male,"chest pain,dizziness,fainting,fatigue,swollen feet,shortness of breath,fatigue", heart disease
+VGY-21622,Keith Garcia,67,Female,"thirst,fatigue,yeast infection,slow-healing wounds,tingling in hands or feet,extreme hunger,blurred vision", diabetes
+FWR-57270,Ricky Sandoval,27,Male,"scratchy throat,mild fatigue,cough,sore throat,headache,watering eyes,green mucus,sore throat", common cold
+VRH-21772,Lynn Clark DDS,72,Male,"sneezing,watering eyes,runny nose,green mucus,mild fatigue,headache", common cold
+GIB-79546,Lisa Kelly,7,Other,"sneezing,mild fatigue,stuffy nose,runny nose", common cold
+HTF-10910,Ryan Perry,17,Male,"fatigue,chills", flu
+YBG-88431,Courtney Wilson,77,Male,"extreme hunger,fatigue,yeast infection,slow-healing wounds,blurred vision,tingling in hands or feet,thirst", diabetes
+ASE-66282,Christy Rios,7,Other,"watering eyes,green mucus", common cold
+IHT-35830,Ryan Hicks,44,Female,"fainting,fatigue", heart disease
+VIV-65773,Austin Vega,23,Male,"sore throat,scratchy throat,stuffy nose,headache,runny nose,sneezing,green mucus,mild fatigue", common cold
+UIW-68362,Melanie Conner,42,Female,"headache,runny nose,stuffy nose,mild fatigue,sneezing,sore throat,watering eyes", common cold
+QWI-71705,Emily Page,98,Male,"unilateral headache,sensitivity to light,vomiting,throbbing sensation,nausea,pulsing sensation,vertigo", migraine
+UPW-60785,Jonathan Clark,43,Male,joint pain, arthritis
+XNQ-99010,Gloria Ingram,42,Male,"chest pain,persistent cough,shortness of breath,coughing up blood", tuberculosis
+JKF-83007,Dorothy Horne,12,Male,coughing up blood, tuberculosis
+EXL-78116,Kathleen Mccoy,55,Other,"cough,watering eyes,sneezing,stuffy nose,runny nose,sore throat,headache,mild fatigue,sore throat,green mucus", common cold
+VOG-11348,Katherine Russo,24,Male,"shortness of breath,swollen feet", heart disease
+BNX-27454,Kenneth Galloway,24,Male,itching, allergic reaction
+DHN-66712,David Cannon,96,Male,"shortness of breath,fatigue,chest pain,shortness of breath,swollen feet,fainting,rapid heartbeats,dizziness,fatigue", heart disease
+HCG-66966,Keith Sandoval,72,Male,"headache,cough,runny nose,sore throat,scratchy throat,sneezing,green mucus,mild fatigue,stuffy nose", common cold
+EMC-97018,Zoe Rodriguez,72,Female,"slurred speech,muscle twitching,muscle cramps", amyotrophic lateral sclerosis (als)
+HZF-53734,Bryan Stanley,33,Other,swollen feet, heart disease
+ZZV-16473,Elizabeth Lang,36,Female,"sensitivity to light,nausea,vomiting,pulsing sensation", migraine
+RLB-86239,Chad Pearson,40,Male,"reduced range of motion,swelling,inflammation,joint sensitivity", arthritis
+LHL-80000,Janice Roberts,67,Female,joint sensitivity, arthritis
+VJF-40081,John Graves,16,Male,"headache,watering eyes,sneezing,green mucus,sore throat,sore throat,cough,mild fatigue,stuffy nose,runny nose,scratchy throat", common cold
+VSD-36256,Brian Sellers,58,Female,"fever,stuffy nose", flu
+KJF-42630,Michaela Campbell,85,Male,"stiffness,discoloration,swelling,inflammation,reduced range of motion,warmth near joints,joint sensitivity", arthritis
+FPX-93586,Eric Nelson,85,Male,"swelling,rash,itching", allergic reaction
+BJE-46648,Sabrina Dougherty,28,Male,"runny nose,scratchy throat,watering eyes", common cold
+WHF-28265,Mr. Frank Davenport,71,Male,"stiffness,inflammation", arthritis
+QTE-41929,Rebecca Wright,96,Male,"vomiting,red and swollen tonsils,rash,fever", strep throat
+MHB-18585,Mindy Soto,45,Male,"dizziness,fatigue,fainting,shortness of breath,fatigue,swollen feet,rapid heartbeats,chest pain", heart disease
+ZRH-21445,Miguel Bowman,97,Female,"watering eyes,green mucus,runny nose,sneezing,headache,sore throat,cough,sore throat,scratchy throat,mild fatigue,stuffy nose", common cold
+OLM-60623,Trevor Gomez,69,Female,"cough,sore throat,green mucus,scratchy throat,stuffy nose", common cold
+TRL-11916,Thomas Schmitt,18,Male,"rash,swollen lymph nodes", allergic reaction
+ORQ-06755,Stephen Sullivan,50,Female,"shortness of breath,weight loss,chest pain", tuberculosis
+ART-29516,Sandra Green,44,Female,rash, allergic reaction
+VJQ-69388,Laura Yu,93,Male,"discoloration,warmth near joints,inflammation,reduced range of motion,stiffness,swelling,joint sensitivity,joint pain", arthritis
+SYO-64546,Tracy Winters,18,Male,"swelling,itching,swollen lymph nodes,rash", allergic reaction
+MPM-50056,Joshua Garcia,26,Male,"persistent cough,chest pain,weight loss,fatigue", tuberculosis
+TRK-21640,Suzanne Gutierrez,78,Male,"sore throat,cough,runny nose", common cold
+ZTZ-26553,Melissa Holland,44,Male,fatigue, heart disease
+EOW-03301,Gina Johnson,22,Female,cough, flu
+UCW-16747,Sharon Fischer,84,Female,"watering eyes,sore throat,sneezing,mild fatigue,runny nose,cough,headache,green mucus,scratchy throat,stuffy nose,sore throat", common cold
+TJL-55761,Mrs. Karen Benitez MD,21,Female,"swollen feet,rapid heartbeats,fatigue,fatigue,shortness of breath,chest pain,fainting,shortness of breath", heart disease
+HRP-18025,Brian Holmes,46,Female,"rash,vomiting", strep throat
+WMX-56965,Tyler Ford,67,Female,"swollen feet,fainting,fatigue,shortness of breath,dizziness,fatigue,shortness of breath,rapid heartbeats,chest pain", heart disease
+PXR-18015,Mitchell Morris,28,Other,"cough,headache,fever,stuffy nose,chills", flu
+VKS-57181,Karen Bush,19,Male,"nausea,vomiting,sensitivity to light", migraine
+XLU-78459,Jerry Lewis,29,Female,"stiffness,inflammation,warmth near joints,discoloration,swelling,joint sensitivity", arthritis
+LWZ-72693,Robert Daniels,57,Male,"stiffness,swelling,discoloration,joint pain,joint sensitivity,inflammation", arthritis
+TUF-51338,Cindy Harrison,97,Male,halitosis, strep throat
+BYO-40368,Larry Griffin,67,Male,"mild fatigue,scratchy throat,cough,headache,green mucus,sore throat", common cold
+FIB-57516,Timothy Ferrell,4,Female,"runny nose,fatigue,chills,cough,headache,stuffy nose,sore throat,fever,body aches,night sweats", flu
+TJT-64535,Sarah Moore,96,Other,"mild fatigue,headache,scratchy throat,sore throat,green mucus,runny nose,watering eyes,cough", common cold
+SLR-17860,Christopher Burns,46,Female,"blurred vision,tingling in hands or feet,extreme hunger", diabetes
+GYZ-66547,James Chambers,58,Male,"itching,swelling,rash,swollen lymph nodes", allergic reaction
+UWL-32825,Laurie Kline,20,Male,"blurred vision,thirst", diabetes
+SCT-48879,William Caldwell,90,Female,rash, allergic reaction
+VYN-56617,Susan Rose,75,Male,"watering eyes,mild fatigue", common cold
+UBL-38854,Christian Jackson,82,Male,chest pain, heart disease
+XIF-77833,Thomas Savage,25,Male,sneezing, common cold
+HDN-96080,Tracy Payne,70,Female,"swelling,itching,swollen lymph nodes", allergic reaction
+GBB-86158,Ronald Meza,92,Female,"warmth near joints,inflammation,reduced range of motion,joint sensitivity,swelling,joint pain,discoloration", arthritis
+ECB-97793,Michael Baker,18,Female,"swelling,itching,swollen lymph nodes", allergic reaction
+RWK-05334,Daniel Johnson,17,Male,"sneezing,sore throat,runny nose,watering eyes,stuffy nose,mild fatigue,headache,scratchy throat,green mucus,cough", common cold
+OHB-54619,Casey Villa,42,Other,"scratchy throat,cough,sore throat", common cold
+LKG-10599,David Jones,17,Female,"painful swallowing,halitosis,vomiting", strep throat
+AJE-70315,Richard Young,85,Female,"swollen feet,shortness of breath", heart disease
+CDW-46803,Brenda Norman,46,Male,"shortness of breath,swollen feet,fatigue,rapid heartbeats,fainting,dizziness,shortness of breath,chest pain", heart disease
+HRI-66790,Gloria Howard,95,Other,"sore throat,cough,headache", common cold
+TFS-00899,Daniel Gilmore,99,Male,"stiffness,joint sensitivity,reduced range of motion,discoloration,joint pain,warmth near joints", arthritis
+ZJB-52806,Daniel Rios,97,Female,"shortness of breath,dizziness,shortness of breath", heart disease
+EQZ-38245,Dr. Isaiah Wilson,48,Other,"sore throat,watering eyes,runny nose,headache,mild fatigue,scratchy throat,sneezing,cough,green mucus,stuffy nose", common cold
+LGF-88776,Nicole Jones,63,Female,"inflammation,discoloration", arthritis
+PMA-45187,Jason Gonzalez,4,Female,"itching,swollen lymph nodes,swelling", allergic reaction
+LHJ-11384,Antonio Bennett,35,Female,cough, flu
+CON-17759,Amanda Lewis,44,Male,"stuffy nose,sneezing,sore throat,runny nose,watering eyes,scratchy throat,headache,cough", common cold
+LLW-34027,David Alvarado,92,Male,"scratchy throat,watering eyes,stuffy nose,sore throat,runny nose,sneezing,sore throat,cough,mild fatigue,green mucus", common cold
+AIH-90618,Matthew Adams,61,Female,"shortness of breath,chest pain,fatigue,swollen feet,fainting,fatigue,dizziness,rapid heartbeats", heart disease
+EQK-45221,David Gray,10,Male,"scratchy throat,green mucus,mild fatigue,stuffy nose,watering eyes,sneezing,headache,sore throat,sore throat", common cold
+EQQ-89695,Amber Coleman,93,Female,"itching,swollen lymph nodes,rash,swelling", allergic reaction
+AHU-67277,David Watson,72,Male,"sneezing,scratchy throat,green mucus", common cold
+ORJ-35393,Veronica Melton,32,Male,"tingling in hands or feet,extreme hunger,yeast infection", diabetes
+LAO-58186,Vanessa Dunn,78,Male,"itching,swollen lymph nodes,rash,swelling", allergic reaction
+ZCJ-59490,Ronald Rice,50,Male,"chest pain,shortness of breath,shortness of breath,fatigue,fainting,swollen feet,fatigue,dizziness", heart disease
+SWK-66578,Thomas Henry,5,Female,"chills,sore throat,body aches,fever,fatigue,runny nose,cough,stuffy nose", flu
+ZZK-04147,Charles Guerrero,54,Male,"nausea,throbbing sensation,vertigo", migraine
+PLM-92666,Lori Knapp,73,Female,"sore throat,stuffy nose,night sweats", flu
+IZP-53272,Diane Hunt,54,Male,"joint pain,reduced range of motion,warmth near joints,discoloration,swelling,inflammation,joint sensitivity", arthritis
+ISP-59615,Douglas Wilcox,96,Female,"sore throat,runny nose,scratchy throat,sore throat,headache,watering eyes,stuffy nose", common cold
+IPG-68620,Angela Powers,36,Other,"cough,green mucus,headache,sneezing,mild fatigue,sore throat", common cold
+EAW-27119,Gabriel Delgado,66,Female,"headache,body aches,night sweats,stuffy nose,fatigue", flu
+WPA-06426,Yvonne Long,32,Male,"cough,fever", flu
+MJN-73904,Dylan Bartlett,42,Male,"sore throat,sore throat,green mucus,stuffy nose,mild fatigue,watering eyes", common cold
+VUZ-64703,Kelsey Walker,38,Female,"shortness of breath,fainting,swollen feet,shortness of breath,dizziness,rapid heartbeats", heart disease
+UGH-65248,Andre Olson,34,Male,"stiffness,inflammation,discoloration,warmth near joints,reduced range of motion,swelling,joint pain", arthritis
+BOH-99442,Lisa Martin,86,Female,"reduced range of motion,joint pain,swelling,warmth near joints,stiffness,inflammation,joint sensitivity", arthritis
+OEW-83274,Mr. William Matthews,22,Male,"swelling,inflammation,discoloration,joint pain,joint sensitivity,stiffness", arthritis
+IAG-98782,Thomas Lewis,8,Male,"mild fatigue,headache,sneezing,sore throat,scratchy throat,runny nose,sore throat", common cold
+QMF-69353,Keith Adams,64,Female,"abdominal pain,diarrhea,fever,fatigue,dehydration,loss of appetite", gastroenteritis
+XRA-07138,Shannon Robertson,62,Male,"reduced range of motion,warmth near joints,swelling,stiffness,joint sensitivity,joint pain", arthritis
+HVB-90002,Allison Fisher,47,Male,"fatigue,shortness of breath", tuberculosis
+IFP-42359,Robert Carr,95,Female,"fatigue,swollen feet", heart disease
+DAL-97374,Ryan Wright,100,Female,"vomiting,nausea,painful swallowing", strep throat
+YJF-61223,Nancy Mccormick,25,Other,"night sweats,chills,fever,fatigue,body aches", flu
+CXI-62801,Jade Buck,55,Male,"fever,chills", flu
+MFY-76724,Ryan Blair,26,Female,"swollen feet,fatigue,rapid heartbeats,chest pain,shortness of breath,dizziness", heart disease
+AQY-69276,Jenny Davis,47,Male,"cough,mild fatigue,runny nose,sore throat", common cold
+OYA-33341,Dennis Campbell,38,Female,"sore throat,body aches,runny nose,headache,cough", flu
+UKX-20348,Joy Baker,45,Male,"throbbing sensation,unilateral headache,vomiting", migraine
+CNZ-66712,Brian Olson,61,Female,"persistent cough,chest pain,shortness of breath", tuberculosis
+RSC-64076,Christopher Burke,82,Female,yeast infection, diabetes
+QVS-28766,Melanie Horne,71,Female,"cramps,loss of appetite,headache,fatigue,dehydration,fever,abdominal pain", gastroenteritis
+EBI-63542,Karen Ramsey,82,Male,"inflammation,joint pain,warmth near joints,stiffness,joint sensitivity,reduced range of motion,discoloration,swelling", arthritis
+CDM-73473,Philip Bennett,86,Male,"halitosis,sore throat,fever", strep throat
+VSK-16808,Lauren Cruz,58,Other,"fainting,shortness of breath,chest pain,rapid heartbeats", heart disease
+FCW-24360,Eric Carey,93,Male,"sore throat,mild fatigue,cough,sneezing,sore throat,runny nose,stuffy nose,watering eyes,scratchy throat,green mucus", common cold
+ZKZ-77475,Christine Alexander,58,Other,"headache,fatigue,stuffy nose,cough,sore throat,body aches,night sweats,chills,fever", flu
+XSP-37531,Olivia Hodge,8,Male,"shortness of breath,fatigue,fainting,shortness of breath,rapid heartbeats,swollen feet", heart disease
+PQI-32451,Zachary Arroyo,2,Female,swollen lymph nodes, allergic reaction
+YGM-09699,Jamie Cordova,47,Male,"watering eyes,headache,sore throat,sneezing,sore throat,mild fatigue", common cold
+XJU-24139,Kenneth Norman,70,Female,"warmth near joints,joint sensitivity,reduced range of motion,inflammation", arthritis
+LFE-95734,Thomas Bryant,9,Female,"sore throat,headache,sneezing", common cold
+PGX-39668,Shane Gardner,60,Male,"discoloration,inflammation,reduced range of motion,joint sensitivity", arthritis
+DWZ-31362,Chad Reyes,19,Male,"runny nose,fatigue,cough,body aches,sore throat,fever,night sweats,chills", flu
+XMD-86478,Michelle Taylor,2,Female,"coughing up blood,persistent cough", tuberculosis
+SGZ-55499,Stacy Lowe,86,Other,"joint pain,discoloration,inflammation,reduced range of motion,stiffness,warmth near joints", arthritis
+RXS-41809,Robert Foley,18,Female,"swollen lymph nodes,itching,swelling,rash", allergic reaction
+DMY-19786,Rebecca Moore,98,Male,"frequent urination,tingling in hands or feet,fatigue", diabetes
+XJK-99203,Francis Williams,7,Female,"shortness of breath,swollen feet,fatigue,fatigue,fainting,chest pain,rapid heartbeats", heart disease
+VAO-42241,Sarah Martin,1,Female,"warmth near joints,discoloration", arthritis
+DOE-15884,Jamie Brown,38,Female,"sneezing,cough", common cold
+UXM-11396,James Parsons,1,Female,"green mucus,watering eyes,headache,sneezing,sore throat,sore throat,scratchy throat", common cold
+EGE-12270,Karen Deleon,97,Female,"cough,sore throat,mild fatigue,runny nose,sore throat,sneezing,stuffy nose", common cold
+PYU-17658,Brian Baker,57,Female,"stiffness,swelling,joint pain", arthritis
+ETK-68031,Rose Estrada,94,Male,"headache,rash,sore throat,swollen lymph nodes,halitosis,red and swollen tonsils", strep throat
+FQI-57955,Joshua Patel,79,Other,"dehydration,headache,cramps", gastroenteritis
+ASN-91405,Stephanie Adams,56,Female,"swelling,inflammation,joint sensitivity,stiffness,discoloration,reduced range of motion,warmth near joints", arthritis
+DSC-07827,Lucas Simon,95,Female,"cough,body aches,night sweats,stuffy nose,runny nose,sore throat,headache", flu
+XYD-84845,Tyler Bailey,86,Female,"runny nose,sore throat,sneezing,cough,watering eyes", common cold
+PHL-29014,Adriana Sullivan,79,Male,"joint sensitivity,reduced range of motion,swelling,stiffness", arthritis
+PUW-33706,Grant Mitchell,46,Male,"yeast infection,fatigue,slow-healing wounds,frequent urination,tingling in hands or feet,extreme hunger", diabetes
+VZV-14194,Dwayne Johnson,52,Male,"scratchy throat,green mucus", common cold
+OQY-58597,Steven Clark,40,Male,"cough,watering eyes,runny nose,mild fatigue,green mucus,sore throat,scratchy throat", common cold
+PAT-45993,Alex Thornton,52,Female,"mild fatigue,green mucus,sore throat,runny nose,sore throat,headache,stuffy nose,scratchy throat", common cold
+CNI-65307,Jason Green,8,Male,"swollen lymph nodes,painful swallowing,red and swollen tonsils,sore throat,nausea,vomiting,headache,fever,halitosis,rash", strep throat
+XNB-16727,Mary Mcclure,46,Other,shortness of breath, heart disease
+JVX-44087,Ashley Walsh,85,Female,"thirst,frequent urination,fatigue,blurred vision,slow-healing wounds,extreme hunger", diabetes
+QRD-15291,Michelle Barrett,63,Female,"swollen lymph nodes,swelling,itching,rash", allergic reaction
+KYR-95712,Justin Richards,16,Female,"slow-healing wounds,blurred vision,frequent urination", diabetes
+UMG-65236,Evan Lynn,25,Female,"mild fatigue,green mucus,stuffy nose,sneezing,headache,sore throat,scratchy throat,cough,runny nose,sore throat", common cold
+XZB-95337,Matthew Kerr,36,Male,"watering eyes,mild fatigue,green mucus,sneezing,stuffy nose,sore throat,headache", common cold
+KXN-75039,Matthew Cruz,5,Male,"swelling,joint pain,reduced range of motion,warmth near joints,joint sensitivity,discoloration,inflammation", arthritis
+QXM-74036,Heather Williams,83,Female,"nausea,vomiting,headache,swollen lymph nodes", strep throat
+FFW-42377,Cynthia Jones,37,Female,"sore throat,headache,scratchy throat,watering eyes,stuffy nose,sneezing,green mucus,runny nose,sore throat", common cold
+NIV-98951,Alejandra Wallace,32,Female,pulsing sensation, migraine
+XPZ-07348,Nathan Knight,95,Male,mild fatigue, common cold
+DCI-82408,Patrick Harris,81,Male,"sensitivity to light,unilateral headache,nausea,vomiting,throbbing sensation", migraine
+SNX-95149,Steven Porter,60,Female,"itching,swollen lymph nodes", allergic reaction
+VNT-18277,William Howell,65,Male,"slow-healing wounds,frequent urination,extreme hunger", diabetes
+KUU-70755,Ricky Holt,80,Male,"runny nose,fever,sore throat,chills,night sweats,headache,cough,fatigue,body aches,stuffy nose", flu
+NZP-24032,Donna Hopkins,76,Other,"sore throat,night sweats,fatigue,stuffy nose,chills,runny nose,fever,body aches,headache", flu
+RBO-54365,Dale Green,99,Other,"headache,night sweats,runny nose", flu
+IKT-68244,Curtis Hunter,51,Male,"joint sensitivity,stiffness,warmth near joints", arthritis
+CZH-17786,Amy Smith,99,Male,"chills,body aches,cough,night sweats,headache,sore throat,runny nose,fatigue", flu
+YYP-28244,Steven Aguirre,98,Female,"cough,mild fatigue,green mucus,sore throat,scratchy throat,headache,sore throat,runny nose,watering eyes", common cold
+TYI-66934,Teresa Francis,18,Female,"extreme hunger,frequent urination,thirst,tingling in hands or feet", diabetes
+WYS-18770,Deanna Williams,52,Male,"coughing up blood,weight loss,chest pain,shortness of breath", tuberculosis
+JPS-04745,Brian Robinson,16,Male,"swelling,rash", allergic reaction
+FJO-73815,Brenda Taylor,14,Other,"watering eyes,sore throat,headache,scratchy throat,runny nose,cough,stuffy nose,mild fatigue,sneezing,sore throat,green mucus", common cold
+NEG-47552,Jessica Richardson,42,Male,"inflammation,joint sensitivity,discoloration,warmth near joints,joint pain,stiffness", arthritis
+IMZ-22874,Jared Davis,53,Male,"mild fatigue,scratchy throat,sore throat,green mucus,headache,cough,sneezing,watering eyes", common cold
+HGO-40413,Andre Smith,14,Female,"night sweats,headache,cough,stuffy nose", flu
+PPF-26015,James Fuentes,24,Male,"rapid heartbeats,shortness of breath,shortness of breath,dizziness,fainting,fatigue,chest pain,fatigue,swollen feet", heart disease
+HDA-80473,Jennifer Buchanan,53,Female,"nausea,pulsing sensation,vomiting,unilateral headache,throbbing sensation,vertigo", migraine
+QCZ-30474,Julia Gilbert,90,Female,"itching,swelling,rash,swollen lymph nodes", allergic reaction
+KYU-00715,Lydia Martinez,56,Female,"cough,mild fatigue,headache,stuffy nose", common cold
+SUQ-95877,Brian Myers,48,Female,"throbbing sensation,pulsing sensation,unilateral headache,nausea", migraine
+UFW-87949,Dakota King,65,Male,"fainting,shortness of breath", heart disease
+IFP-96028,Cory Wu,65,Male,"sore throat,stuffy nose,runny nose,scratchy throat", common cold
+ANY-83592,Philip Mccarty,7,Male,"sore throat,headache,red and swollen tonsils,painful swallowing,fever,nausea,swollen lymph nodes,halitosis,vomiting", strep throat
+IKD-04267,Rachel Henderson,85,Male,"fatigue,fainting,shortness of breath,swollen feet", heart disease
+DPS-43458,Anna Anderson,67,Male,"sore throat,headache,cough,mild fatigue,scratchy throat,stuffy nose", common cold
+HFU-99814,Charlene Wells,53,Male,"fatigue,extreme hunger,yeast infection,frequent urination,tingling in hands or feet", diabetes
+DVX-07459,Renee Fisher,50,Female,"sneezing,headache,cough,scratchy throat,sore throat,sore throat,green mucus,stuffy nose,mild fatigue,runny nose", common cold
+ZZA-33320,Shannon Yang,19,Male,"runny nose,sneezing,headache,sore throat,cough,sore throat,stuffy nose", common cold
+BON-73956,Michael Lindsey,87,Male,"fever,cough,body aches,chills,sore throat,headache", flu
+JKY-45046,Kenneth Willis,23,Female,sore throat, common cold
+HYC-53292,Mr. William Brown,70,Other,"fatigue,vomiting", gastroenteritis
+KBY-70338,Walter Ayala,18,Male,"sore throat,watering eyes", common cold
+XKY-18932,Amanda Sanders,43,Other,"mild fatigue,headache,scratchy throat,green mucus,sore throat,runny nose,watering eyes", common cold
+RVO-78267,Andrew Hernandez,64,Male,"sore throat,headache,sore throat,green mucus,stuffy nose,runny nose,watering eyes,sneezing,scratchy throat,cough", common cold
+LZM-88164,Anna Tyler,74,Female,"painful swallowing,swollen lymph nodes,nausea,halitosis,rash,red and swollen tonsils", strep throat
+WIJ-90982,Anthony Odom,59,Other,"swollen lymph nodes,itching,swelling,rash", allergic reaction
+KOE-67835,Lacey Williams,96,Female,itching, allergic reaction
+KEF-77042,Michael Williams,62,Female,"sneezing,green mucus,runny nose,watering eyes,headache,cough,mild fatigue,scratchy throat", common cold
+SGB-74093,Matthew Mcdowell,56,Female,watering eyes, common cold
+IPV-58097,Sandra Drake,2,Male,"throbbing sensation,vertigo", migraine
+EWK-58079,Shawn Fowler,93,Female,"runny nose,cough,mild fatigue,sore throat,stuffy nose,watering eyes,sore throat,sneezing,green mucus,headache", common cold
+SST-84779,Dale Shields,46,Female,"swollen lymph nodes,swelling,itching", allergic reaction
+UEO-65715,Lisa Clements,25,Male,swelling, arthritis
+AZP-98043,Stephen Kemp,63,Female,"fatigue,runny nose,cough,sore throat", flu
+VSW-71294,Rebecca Mccullough,78,Female,"chills,stuffy nose,fever,sore throat,runny nose,cough,body aches", flu
+ZMM-54452,Nicholas Cobb,70,Female,"stuffy nose,sore throat", flu
+DLW-02383,Christopher Robinson,42,Male,"rash,swollen lymph nodes,swelling,itching", allergic reaction
+CQE-13588,Jesus Kim,92,Female,"blurred vision,fatigue,extreme hunger,yeast infection,thirst", diabetes
+YGJ-93906,Sara Pierce,28,Male,"swollen feet,fainting,shortness of breath", heart disease
+DKW-81697,Mr. Samuel Wallace MD,34,Female,swollen feet, heart disease
+AMM-68036,Joanna Nichols,83,Other,"warmth near joints,joint sensitivity,reduced range of motion,swelling", arthritis
+JEI-28134,Kenneth Bernard,99,Female,"frequent urination,yeast infection,extreme hunger,blurred vision", diabetes
+DFW-68784,Rachel Wheeler,71,Other,stiffness, arthritis
+TCR-67324,Patricia Bradford,83,Male,"stuffy nose,sore throat,cough,sneezing,watering eyes,sore throat", common cold
+ZMO-67849,John Berry,59,Female,"red and swollen tonsils,vomiting,nausea,swollen lymph nodes,rash", strep throat
+LQU-35788,Erik Edwards,31,Other,"itching,swollen lymph nodes,rash", allergic reaction
+GHC-41415,Nicholas Joseph,77,Male,itching, allergic reaction
+JJG-44893,Samuel Fields,47,Female,night sweats, flu
+YBD-87704,Sean Hicks,85,Other,"sore throat,sneezing,stuffy nose,headache,sore throat", common cold
+SXB-40283,Dawn Kramer,38,Female,"mild fatigue,sore throat,sore throat,sneezing,runny nose,watering eyes,headache,stuffy nose", common cold
+ZQT-62202,Timothy Cooper,39,Male,"body aches,sore throat,cough,chills,night sweats,stuffy nose,fatigue,headache,fever", flu
+QEV-00086,Matthew Jones,87,Male,"joint pain,stiffness,reduced range of motion,swelling,inflammation,warmth near joints,discoloration", arthritis
+DYV-85806,Jacob Robles,75,Male,"thirst,tingling in hands or feet,slow-healing wounds,extreme hunger,yeast infection,blurred vision,frequent urination", diabetes
+DLU-46726,Mark Knight,59,Male,"sore throat,sneezing,watering eyes,headache,cough,runny nose,stuffy nose,sore throat", common cold
+LMK-74814,Regina Lee,38,Female,"nausea,pulsing sensation", migraine
+EGK-07531,Tony Bryant,69,Male,"green mucus,runny nose,scratchy throat,headache,sore throat,stuffy nose,cough,sore throat,sneezing,mild fatigue", common cold
+WZR-88455,Jennifer Thompson,93,Male,"watering eyes,sneezing,runny nose,sore throat,sore throat,stuffy nose", common cold
+MUY-24188,Tamara Mckee,26,Male,"green mucus,stuffy nose,headache,sore throat,cough", common cold
+THV-86340,Lonnie Young,29,Female,"night sweats,stuffy nose,fatigue,headache,fever,sore throat,body aches,cough,runny nose,chills", flu
+CBG-28830,Raymond Ware,89,Female,"green mucus,sore throat", common cold
+TDE-05387,Kayla Smith,77,Male,"frequent urination,blurred vision,extreme hunger,thirst", diabetes
+ZPS-46898,Charles Matthews,3,Male,"throbbing sensation,vomiting,sensitivity to light,nausea,vertigo,pulsing sensation,unilateral headache", migraine
+XPF-31283,Caroline Carlson,50,Other,"headache,cough", common cold
+ZLM-40768,Charles Sparks,9,Male,"discoloration,inflammation,reduced range of motion,warmth near joints,joint sensitivity", arthritis
+ZSA-43895,David Anderson DDS,12,Female,"runny nose,headache,sore throat,cough,sore throat,scratchy throat,green mucus,stuffy nose,sneezing,mild fatigue", common cold
+YWW-50007,Elizabeth Sandoval,58,Male,chills, flu
+LIA-65358,Dustin Huber,65,Female,"headache,chills,fatigue,stuffy nose,runny nose,fever", flu
+HPJ-46091,Lisa Stanton,8,Male,rash, strep throat
+REJ-12876,Samantha Garza,80,Other,"rapid heartbeats,shortness of breath,dizziness,fatigue,chest pain,fatigue", heart disease
+QPF-85361,Jason Garner,23,Other,"cramps,fatigue,dehydration", gastroenteritis
+PYO-98692,Shawn Coleman,100,Male,shortness of breath, heart disease
+HFX-54341,Maria Martinez MD,40,Female,"reduced range of motion,swelling,joint sensitivity,warmth near joints,discoloration,joint pain,stiffness", arthritis
+ZUG-79732,Tammy Miller,25,Male,"stuffy nose,sneezing,cough,watering eyes,runny nose,sore throat,headache,scratchy throat", common cold
+HID-25502,Kayla Andrews,39,Male,"headache,body aches,runny nose,chills,stuffy nose,sore throat", flu
+BAA-11514,Sharon Powell,20,Female,"extreme hunger,slow-healing wounds,blurred vision,fatigue,frequent urination,thirst,yeast infection,tingling in hands or feet", diabetes
+QUA-63857,Susan Jennings,50,Male,"swollen feet,fatigue", heart disease
+WPN-68868,Glen Parks,87,Male,"runny nose,sore throat", flu
+WHK-51683,Vanessa Mcdonald,64,Male,"joint pain,stiffness,discoloration,swelling,reduced range of motion,joint sensitivity", arthritis
+ZYI-17064,Ryan Kent,36,Other,fatigue, heart disease
+HHI-06426,Thomas Green,47,Female,"stuffy nose,runny nose,watering eyes,cough,mild fatigue,headache,sore throat,scratchy throat,green mucus,sore throat", common cold
+TFW-76545,Lori Valentine,54,Male,"rash,swelling", allergic reaction
+BOV-07708,Christopher Estrada,22,Female,"sneezing,scratchy throat,headache,stuffy nose,cough,green mucus,sore throat,watering eyes,sore throat,mild fatigue,runny nose", common cold
+DNZ-26906,Matthew Michael,15,Female,"itching,swelling,swollen lymph nodes", allergic reaction
+HJU-81543,Julie Hill,63,Female,"green mucus,watering eyes,sore throat,scratchy throat,cough,sneezing,sore throat", common cold
+MRV-92066,Francisco White,47,Male,"sore throat,fatigue,night sweats,stuffy nose,runny nose,cough,headache,body aches,fever,chills", flu
+MWM-00927,Cindy Brown,85,Female,fever, gastroenteritis
+MII-00423,Sarah Thompson,13,Male,"dehydration,loss of appetite,fatigue", gastroenteritis
+FJT-22742,Lawrence Rodgers,8,Male,"swollen lymph nodes,itching,swelling", allergic reaction
+TYG-50145,Travis Wallace,32,Male,stuffy nose, flu
+PNG-91831,Dr. Julie Baker MD,41,Female,"rash,swelling,itching", allergic reaction
+TWO-49311,Chad Stone,48,Female,"sore throat,cough,sore throat,stuffy nose,runny nose,headache", common cold
+KAN-91356,Andrea Donovan MD,7,Male,"joint sensitivity,swelling,discoloration,joint pain,stiffness,warmth near joints,reduced range of motion", arthritis
+CPD-40544,Yvonne Chang,2,Female,"weight loss,fatigue,persistent cough,chest pain", tuberculosis
+SBS-31938,Mrs. Diamond Smith DVM,99,Male,"sore throat,green mucus,sore throat,scratchy throat,runny nose,sneezing,mild fatigue,stuffy nose,headache,watering eyes", common cold
+BEA-48627,Danielle Castro,99,Male,"dizziness,rapid heartbeats,shortness of breath,chest pain", heart disease
+ZKG-64165,Richard Miranda,37,Female,"runny nose,fatigue", flu
+TAR-65529,Jennifer Boyer,96,Other,"chest pain,rapid heartbeats,fatigue,fatigue", heart disease
+UOO-89967,Mrs. Morgan Johnson,65,Female,"fatigue,shortness of breath,coughing up blood,chest pain,persistent cough,weight loss", tuberculosis
+TRG-93409,Kathy Torres,78,Other,"throbbing sensation,vomiting,pulsing sensation", migraine
+VAI-38861,Albert Coleman,5,Male,"headache,cough,fatigue,chills,runny nose,stuffy nose,body aches,night sweats,fever,sore throat", flu
+MBD-68339,Donna Washington,36,Other,"shortness of breath,rapid heartbeats", heart disease
+RTS-05517,Marvin Stuart,60,Other,"headache,halitosis", strep throat
+UJJ-61269,Erica Johnson,44,Other,"mild fatigue,stuffy nose", common cold
+LNB-27762,Jesus Bonilla,47,Male,"painful swallowing,sore throat,nausea,vomiting,headache,red and swollen tonsils,halitosis", strep throat
+MUR-96429,Jennifer Wong,55,Male,"sore throat,scratchy throat,sore throat,cough,stuffy nose,runny nose,sneezing,mild fatigue,watering eyes,headache,green mucus", common cold
+RHJ-83268,Michelle Patterson,55,Female,"swollen lymph nodes,rash", allergic reaction
+KNY-99852,Tina Delgado,21,Male,"shortness of breath,rapid heartbeats,fainting,fatigue,chest pain,fatigue,swollen feet", heart disease
+NIH-78132,Julie Jenkins,47,Male,"nausea,cramps,loss of appetite,dehydration,headache,fatigue,diarrhea,fever,abdominal pain", gastroenteritis
+ERD-93370,Mr. Brian Morris,7,Male,"warmth near joints,inflammation,joint sensitivity,swelling,reduced range of motion", arthritis
+BIV-03606,Amber Reid,73,Female,"halitosis,painful swallowing", strep throat
+YTF-10784,David Kelly,4,Female,"inflammation,stiffness,reduced range of motion,joint sensitivity", arthritis
+BVW-49021,Kimberly Ruiz,59,Female,"stuffy nose,runny nose,cough,night sweats,chills,sore throat,fatigue,headache,fever,body aches", flu
+DGI-36394,Lee Bautista,42,Male,"swollen lymph nodes,headache,fever,halitosis,nausea", strep throat
+HNO-35041,Daniel Harris MD,34,Male,"scratchy throat,cough,sore throat,sore throat,headache,runny nose,mild fatigue,sneezing,stuffy nose", common cold
+RZK-40070,David Woods,68,Male,"sneezing,watering eyes,mild fatigue,runny nose,cough,green mucus,sore throat,stuffy nose,scratchy throat", common cold
+MNV-78373,Rachael Harper,20,Male,"dizziness,rapid heartbeats,fatigue,swollen feet,fainting,shortness of breath,fatigue,shortness of breath", heart disease
+DHX-28588,Samantha Lozano,31,Female,cough, common cold
+TLS-79643,Kimberly Parker,14,Female,"mild fatigue,sneezing,scratchy throat,sore throat", common cold
+YRC-37715,James Reyes,6,Male,"fatigue,dizziness", heart disease
+VPN-51618,Lisa Mcconnell,100,Female,vomiting, migraine
+THW-99257,Tristan Murray,79,Female,"fatigue,swollen feet,rapid heartbeats,chest pain,dizziness,shortness of breath,shortness of breath,fainting", heart disease
+ZBV-49519,Grant Harris,26,Male,"cough,mild fatigue,scratchy throat,stuffy nose", common cold
+BZY-94816,Christopher Leonard,96,Female,"inflammation,warmth near joints,joint pain,stiffness,swelling,reduced range of motion,joint sensitivity,discoloration", arthritis
