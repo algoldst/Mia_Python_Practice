@@ -32,7 +32,7 @@ import csv
 # The starter code for each function includes a 'return'
 # which is just a placeholder for your code.
 # 
-# You've got this!
+# You've got this! :) ❤ ❤ ❤
 
 def read_patient_logs(filename:str) -> list:
     '''
@@ -65,22 +65,9 @@ def read_patient_logs(filename:str) -> list:
     Work on getting basic data read in from the csv first. Once you achieve this 
     milestone, then you can modify the function to add additional data processing.
     '''
-    entries = []
-    with open(filename, mode='r') as file:
-        csv_reader = csv.reader(file)
-        for entry in csv_reader:
-            entry = {
-                'id': entry[0],
-                'name': entry[1],
-                'age': entry[2],
-                'gender': entry[3],
-                'symptoms': entry[4],
-                'diagnosis': entry[5].strip()
-            }
-            entries.append(entry)
-    return entries
+    return []
 
-def find_commonalities(entries: list, target_symptom: str):
+def find_commonalities(entries: list, target_symptom: str) -> list:
     """
     Accepts a list of entries dictionaries, and returns a filtered list containing
     only the dictionary entries that have the target symptom listed in their symptoms.
@@ -91,14 +78,17 @@ def find_commonalities(entries: list, target_symptom: str):
     (Although, that would be cool! Maybe at the end you could add this functionality;
     if so, it would go in this function here. :)
     """
-    # Iterate through entries. Add any entries containing target "symptom" to a list.
-    matching = [] # create destination list outside for loop
-    for entry in entries:
-        if target_symptom in entry['symptoms']:
-            matching.append(entry)
-    return matching
+    return []
 
-def find_freq(outcomes: list):
+def write_entries_to_file(symptom:str, entries:list) -> None:
+    """
+    Writes entries to a file named [symptom].csv
+    Optional: You could modify the arguments of the function, so that it accepts
+    the year, and then the name can be [symptom]_[year].csv
+    """
+    return
+
+def find_freq(outcomes: list) -> dict:
     '''
     Given a list of outcomes, returns a dictionary of unique outcomes, and their
     odds (frequency).
@@ -106,16 +96,7 @@ def find_freq(outcomes: list):
     >>> find_freq(['a', 'a', 'b', 'a'])
         {'a': 3, 'b': 1}
     '''
-    # Create a dict for storing each unique outcome and its count (frequency)
-    uniques = {}
-    for outcome in outcomes:
-        if outcome in uniques:
-            # Exists in dict. Increment count by 1.
-            uniques[outcome] += 1
-        else:
-            # Doesn't exist in dict yet. Create new key->value pair, count = 1
-            uniques[outcome] = 1
-    return uniques
+    return
 
 def get_probabilities_from_freq(outcomes: dict) -> dict:
     """
@@ -125,44 +106,14 @@ def get_probabilities_from_freq(outcomes: dict) -> dict:
     Returns:
         {'a': 0.75, 'b': 0.25}
     """
-    # Count up total number of outcomes by summing the freq of each outcome
-    num_outcomes = 0
-    for outcome in outcomes:
-        num_outcomes += outcomes[outcome]
-    
-    # Rescale each outcome to probability
-    probabilities = {}
-    for outcome in outcomes:
-        probabilities[outcome] = outcomes[outcome] / num_outcomes
-    return probabilities
+    return {}
 
-
-def write_entries_to_file(symptom:str, entries:list) -> None:
-    """
-    Writes entries to a file named [symptom].csv
-    Optional: You could modify the arguments of the function, so that it accepts
-    the year, and then the name can be [symptom]_[year].csv
-    """
-    # Handle if entries are empty (e.g. if no matches were found.)
-    if not entries:
-        return
-    
-    
-    with open(f"{symptom}.csv", mode='w') as file:
-        fieldnames = list(entries[0])
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
-        writer.writeheader()
-        for entry in entries:
-            writer.writerow(entry)
-    return
 
 
 
 def main(target_file, target_symptom):
     """
     For the most part, you shouldn't have to edit anything in here, except for step 4.
-
-    Well, you shouldn't have to edit anything below here, if I did my part right. :)
     """
 
     print("\nDifferential Diagnosis")
@@ -172,6 +123,8 @@ def main(target_file, target_symptom):
     # print(entries)
     # ^^ Uncomment to test this function!
     #    Make sure the output matches the format specified in the function docstring.
+    #    You can also put print statements inside the function, to see what the intermediate
+    #    state of your working data is. :)
 
     # Step 2: Create a new list containing only entries that match the target symptom
     matching_entries = find_commonalities(entries, target_symptom)
@@ -187,20 +140,18 @@ def main(target_file, target_symptom):
     # You'll need to do some data manipulation before calling find_freq() and 
     # get_probabilities_from_freq(), to get your data in a list form, e.g.:
     #   ['common cold', 'common cold', 'flu', 'common cold', 'flu', 'tuberculosis', ...]
+    #
+    # I've broken this out into steps below to help somewhat :)
     
     # a) Get data into list form of only the diagnoses
-    diagnoses = []
-    for entry in matching_entries:
-        diagnoses.append(entry['diagnosis'])
+    
     
     # b) Find frequencies & probabilities
-    frequencies = find_freq(diagnoses)
-    probabilities = get_probabilities_from_freq(frequencies)
+    
     
     # c) Print outputs according to the structure of this print statement
-    print(f"{'Diagnosis'} | {'Frequency'} | {'P(Diagnosis|Symptom)'}")
-    for diagnosis in frequencies:
-        print(f"{diagnosis:<20} {frequencies[diagnosis]:<6} {probabilities[diagnosis]:10.2f}")
+    print("Diagnosis | Frequency | P(Diagnosis|Symptom)")
+    
 
 
 # This part is done for you! :)
@@ -216,11 +167,11 @@ if __name__ == '__main__':
         No arguments specified...
               
               Call this program with arguments as:
-                    program.py <patient_records_yyyy.csv> [symptom]
+                    diagnosis.py <patient_records_yyyy.csv> [symptom]
 
               For example:
-              $ program.py patient_records_2018.csv cough
-              $ program.py patient_records_2018.csv "scratchy throat"
+              $ diagnosis.py patient_records_2018.csv cough
+              $ diagnosis.py patient_records_2018.csv "scratchy throat"
 
               If no symptom is given, all symptoms will be matched (target_symptom = "")
               """)
