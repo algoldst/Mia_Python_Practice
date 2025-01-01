@@ -46,26 +46,8 @@ import backend
 # (that is, decimal values), and that the output is a dictionary.
 #
 def identify_treatments_in_range(treatments: dict, min_percent: float, max_percent: float) -> dict:
-    # Find most expensive treatment available, for calculating threshold value
-    max_cost_found = 0
-    for treatment in treatments:
-        treatment_cost = treatments[treatment]
-        if treatment_cost > max_cost_found:
-            max_cost_found = treatment_cost
-        else:
-            continue
-    PERCENT = 0.01
-    min_value = min_percent * PERCENT * max_cost_found
-    max_value = max_percent * PERCENT * max_cost_found
-
-    # Find keys to return
-    ranged_treatments = {}
-    for treatment in treatments:
-        cost = treatments[treatment]
-        if cost >= min_value and cost <= max_value:
-            ranged_treatments[treatment] = cost
-    
-    return ranged_treatments
+    # ++++++++ your code here +++++++++++
+    return
 
 
 # A2. Treatment Binning
@@ -79,7 +61,7 @@ def identify_treatments_in_range(treatments: dict, min_percent: float, max_perce
 # Then, count up the number of options available in each range, and return this
 # as a list.
 #
-# Hint: You may find that iterating through the elements of "percentiles"
+# Hint: You may find that iterating through the elements of "percentiles", e.g.
 # >>> for cost_range in percentiles:
 # won't work as easily here, because you need to reference multiple adjacent elements
 # of `percentiles` at the same time. 
@@ -87,26 +69,13 @@ def identify_treatments_in_range(treatments: dict, min_percent: float, max_perce
 # which will give index = 0,1,2,3,4...[ len(percentiles) -1 ]  on each successive iteration.
 # Then, you can reference the current index, AND the next index, at the same time:
 # 
-# >>> for index in range( len(percentiles) ):
+# >>> for index in range( len(percentiles)-1 ):     # <--- note the -1 subtraction. Why is it necessary?
 # >>>     percentiles[index]
 # >>>     percentiles[index+1]
-#   
-# 
 #
 def count_treatments_per_range(treatments: dict, percentiles: float) -> list:
-    # Variable to hold number of options available in each percentile range
-    num_options = []
-
-    # Iterate ranges (pairs) from percentiles, up to 2nd-to-last element
-    for index in range( len(percentiles) - 1 ):
-        min_percent = percentiles[index]
-        max_percent = percentiles[index+1]
-        # Get dict of treatments within range, from previously-defined function
-        ranged_treatments = identify_treatments_in_range(treatments, min_percent, max_percent)
-        # Count it and store into the num_options list
-        num_options.append( len(ranged_treatments) )
-    
-    return num_options
+    # ++++++++ your code here +++++++++++
+    return
 
 # B. Automatic Reporting
 # Help! Our medical wing is full of patients, and insurance needs to know how
@@ -131,17 +100,19 @@ def count_treatments_per_range(treatments: dict, percentiles: float) -> list:
 #
 # If you can do this, then we can count any number of patient symptoms!
 def count_symptom_frequency(hospital_logs: list) -> dict:
-    symptoms = {}
-    for patient in hospital_logs:
-        patient_symptoms = patient[1:]
-        for patient_symptom in patient_symptoms:
-            if patient_symptom in symptoms:
-                symptoms[patient_symptom] += 1
-            else:
-                symptoms[patient_symptom] = 1
-    return symptoms
-    
+    # ++++++++ your code here +++++++++++
+    return
 
+
+
+# ------------------------------------
+
+"""
+DON'T EDIT THE BELOW CODE!! DON'T EDIT THE BELOW CODE!!
+DON'T EDIT THE BELOW CODE!! DON'T EDIT THE BELOW CODE!!
+DON'T EDIT THE BELOW CODE!! DON'T EDIT THE BELOW CODE!!
+DON'T EDIT THE BELOW CODE!! DON'T EDIT THE BELOW CODE!!
+"""
 
 
 # Simple test function to compare what is returned vs. what should be returned.
@@ -155,10 +126,13 @@ def test(got, expected):
     print('%s \tgot: %s \n\texpected: %s' % (prefix, repr(got), repr(expected)))
     return function_works
 
+# Runs each function with different test cases of inputs
 def main():
 
     # Stores results of function tests
     results = []
+
+    # RESEARCHING CHEAPER ALTERNATIVES
 
     backend.title_sequence('Researching Cheaper Alternatives')
     # Each line calls blood_pressure(), compares its result to the expected for that call.
@@ -182,6 +156,9 @@ def main():
     if min(results) == 1:
         print(backend.decrypt('\x14Yp*my\x7f|}o6*k*r\x7fq*s}*kv\x81k\x83}*p|oo8*Us}}o}*~yy8*Km~\x7fkvv\x836*\x81rk~*\x81y\x7fvnx1~*S*ny*py|*\x83y\x7fII*❮*'))
 
+
+    # COUNT EM UP!
+
     backend.title_sequence('Count Em Up!')
     results = [test( count_treatments_per_range(treatments, [0, 25, 50, 75, 100]), [4,3,3,2] )]
 
@@ -192,6 +169,8 @@ def main():
                             '~~sxq*sx*k*vy~*yp*oppy|~8*D3*S1w*\x80o|\x83*z|y\x7fn*yp*\x83y\x7f+*❮*'))
 
 
+    # AUTOMATIC REPORTING
+    
     backend.title_sequence('Automatic Reporting')
     hospital_logs = [['John', 'fever', 'covid', 'swelling', 'joint pain', 'fatigue'],
                     ['Alice', 'covid', 'fatigue', 'cough'],

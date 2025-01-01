@@ -24,11 +24,8 @@ import backend
 # >>> # is functionally equivalent to
 # >>> x = x + 2
 def count_big_feedback(feedback_form):
-    num_big_feedback = 0
-    for feedback in feedback_form:
-        if len(feedback) >= 15:
-            num_big_feedback += 1
-    return num_big_feedback
+    # +++++++ your code goes here +++++++++
+    return
 
 
 # B. Differential Diagnosis
@@ -58,19 +55,8 @@ def count_big_feedback(feedback_form):
 # Hint 2: part of this task can be done by making 2 lists from the given 
 # symptoms list, and sorting each of these before combining them.
 def alphabetize(symptoms):
-    priority_symptoms = []
-    secondary_symptoms = []
-    for symptom in symptoms:
-        if symptom[0] == '_':
-            priority_symptoms.append(symptom[1:])
-        else:
-            secondary_symptoms.append(symptom)
-    
-    priority_symptoms = sorted(priority_symptoms)
-    secondary_symptoms = sorted(secondary_symptoms)
-    sorted_symptoms = priority_symptoms + secondary_symptoms
-
-    return sorted_symptoms
+    # +++++++ your code goes here +++++++++
+    return
 
 
 # C. Missing Vaccinations
@@ -90,12 +76,19 @@ def alphabetize(symptoms):
 # For simplicity, don't worry about age or anything like that...
 # This is a communist clinic — everyone is getting the same vaccinations!! ⚒ ⚒ ⚒
 def find_missing_vaccinations(received_vaccines, all_vaccines):
-    vaccines_needed = []
-    for vaccine in all_vaccines:
-        if vaccine not in received_vaccines:
-            vaccines_needed.append(vaccine)
-    return vaccines_needed
+    # +++++++ your code goes here +++++++++
+    return
 
+
+# -------------------------------------
+
+"""
+DON'T EDIT THIS CODE!! DON'T EDIT THIS CODE!!
+DON'T EDIT THIS CODE!! DON'T EDIT THIS CODE!!
+DON'T EDIT THIS CODE!! DON'T EDIT THIS CODE!!
+DON'T EDIT THIS CODE!! DON'T EDIT THIS CODE!!
+DON'T EDIT THIS CODE!! DON'T EDIT THIS CODE!!
+"""
 
 # Simple test function to compare what is returned vs. what should be returned.
 def test(got, expected):
@@ -108,10 +101,13 @@ def test(got, expected):
     print('%s \tgot: %s \n\texpected: %s' % (prefix, repr(got), repr(expected)))
     return function_works
 
+# Runs each function with different test cases of inputs
 def main():
 
     # Stores results of function tests
     results = []
+
+    # FEEDBACK FORM
 
     backend.title_sequence('Feedback Form')
     # Each line calls blood_pressure(), compares its result to the expected for that call.
@@ -128,6 +124,8 @@ def main():
                               'kvs~\x838*Zv\x7f}6*}ro*vyyu}*qyyn*77*kw*S*kvvy\x81on*~y*\x81|s~o*~rk~*yx~y*k*poonlkm'+
                               'u*py|wI*]y||\x836*s~1}*~|\x7fo*~ry\x7fqr888'))
 
+
+    # DIFFERENTIAL DIAGNOSIS
 
     backend.title_sequence('Differential Diagnosis')
     results = []
@@ -151,6 +149,8 @@ def main():
                               '\x1477*1Kr6*xy*z|ylvow+*S~*yxv\x83*~yyu*k*}om+1'))
 
 
+    # THE DIRT
+    
     backend.title_sequence('The Dirt!!')
     all_vaccinations = ['polio', 'hpv', 'covid', 'rsv', 'ipv', 'var', 'hepA']
     results.append(test( find_missing_vaccinations(['polio', 'hpv'], all_vaccinations), ['covid', 'rsv', 'ipv', 'var', 'hepA']))

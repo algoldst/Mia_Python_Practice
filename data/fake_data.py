@@ -4,6 +4,12 @@ import random
 import csv
 import sys
 
+# Program generates fake data from 'diseases.csv' of the form:
+# Relative Freq, Diagnosis, Symptoms...
+# 20, Arthritis, joint pain, stiffness, swelling, reduced range of motion, inflammation, discoloration, joint sensitivity, warmth near joints
+# 
+# This isn't part of the exercises; this is just code used to make the data. :)
+
 # Quit if not right call
 if len(sys.argv) == 1:
     print("Call with: \n\t fake_data.py [output_file.csv] [num_rows]")

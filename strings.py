@@ -35,12 +35,8 @@ import backend
 # >>> blood_pressure(180,100) returns 'Blood Pressure: 180/100 HIGH! -- GET JAKE!!'
 
 def blood_pressure(systolic, diastolic):
-    bp_string = "Blood Pressure: " + str(systolic) + "/" + str(diastolic)
-    if (systolic > 120) and (diastolic > 80):
-        bp_string += " HIGH!"
-    if (systolic > 140) or (diastolic > 90):
-        bp_string += " -- GET JAKE!!"
-    return bp_string
+    # +++++ your code goes here +++++++
+    return
 
 
 # B. Genetic Markers
@@ -53,15 +49,8 @@ def blood_pressure(systolic, diastolic):
 # 
 # However, if the string length is less than 4, return instead an empty string ''.
 def genetic_markers(genetic_string):
-    first_last = ''
-
-    if len(genetic_string) < 4:
-        return first_last
-
-    for i in range( len(genetic_string) ):
-        if (i < 2) or ( i >= len(genetic_string) - 2 ):
-            first_last += genetic_string[i]
-    return first_last
+    # +++++ your code goes here +++++++
+    return
 
 # C. Unreasonable HIPPA Compliance
 # Given a string s, return a string
@@ -77,14 +66,8 @@ def genetic_markers(genetic_string):
 # where all instances of stra have been replaced by strb.
 # Try this in the Python interpreter if you want to test it out.
 def hippa(s):
-    # Set up temporary variable to hold first letter of s
-    s1 = s[0]
-    # Replace all occurrences of first letter s[0] with '*'
-    s = s.replace(str.upper(s1),'*')
-    s = s.replace(str.lower(s1),'*')
-    # Get the first letter of original s, then add remaining part of altered s
-    s = s1 + s[1:]
-    return s
+    # +++++ your code goes here +++++++
+    return
 
 
 # D. MixUp
@@ -99,13 +82,8 @@ def hippa(s):
 # to your work, do you even love what you do?
 
 def spooner(a, b):
-    # Store the first letters in variables
-    a1 = a[0]
-    b1 = b[0]
-
-    a = b1 + a[1:]
-    b = a1 + b[1:]
-    return a + " " + b
+    # +++++ your code goes here +++++++
+    return
 
 
 # E. Genetic Palindromes
@@ -126,27 +104,22 @@ def spooner(a, b):
 # >>> identify_genetic_palindrome('ATCCTGCA')
 #   
 def identify_genetic_palindrome(gene_seq):
-    reverse = gene_seq[::-1]
-    # Convert letters to A-T C-G complements
-    rev_pal = ''
-    for letter in reverse:
-        if letter == 'A':
-            rev_pal += 'T'
-        elif letter == 'T':
-            rev_pal += 'A'
-        elif letter == 'C':
-            rev_pal += 'G'
-        elif letter == 'G':
-            rev_pal += 'C'
+    # +++++ your code goes here +++++++
+    return
 
-    if rev_pal == gene_seq:
-        return gene_seq + " is a palindrome"
-    else:
-        return gene_seq + " is NOT a palindrome"
-    return rev_pal
 
+# -----------------------------------------------
+
+"""
+Don't modify this code! Don't modify this code!
+Don't modify this code! Don't modify this code!
+Don't modify this code! Don't modify this code!
+Don't modify this code! Don't modify this code!
+Don't modify this code! Don't modify this code!
+"""
 
 # Simple test function to compare what was is returned vs. what should be returned.
+# Used for evaluation of the above functions.
 def test(got, expected):
     if got == expected:
         prefix = ' OK '
@@ -157,10 +130,13 @@ def test(got, expected):
     print('%s \tgot: %s \n\texpected: %s' % (prefix, repr(got), repr(expected)))
     return function_works
 
+# Runs each function with different test cases of inputs
 def main():
 
-    # Stores results of function tests
+    # Stores results of each test case -- To see if all test cases work or not.
     results = []
+
+    # BLOOD PRESSURE
 
     backend.title_sequence('Blood Pressure')
     # Each line calls blood_pressure(), compares its result to the expected for that call.
@@ -174,6 +150,9 @@ def main():
     if min(results) == 1:
         print(backend.decrypt('\x14ao*vy\x80o*Tkuo++*Kxn*Tkuo*vy\x80o}*\x83y\x7f+*D3*^rkxu*\x83y\x7f*py|*uoozsxq*\x83y\x7f|*zk~sox~}*}kpo+'))
 
+
+    # GENETIC STRING
+
     backend.title_sequence('Genetic String')
     results = []
     results.append( test(genetic_markers("CAACTTAGCCGAT"), 'CAAT') )
@@ -183,6 +162,9 @@ def main():
 
     if min(results) == 1:
         print(backend.decrypt("\x14YR*Wc*QYN*S^]*MK_]ON*Lc*MK^]+*^RO*MK^]*K\\O*K^^KMUSXQ+++"))
+
+
+    # UNREASONABLE HIPPA COMPLIANCE
 
     backend.title_sequence('Unreasonable HIPPA Compliance')
     results = []
@@ -194,6 +176,9 @@ def main():
     if min(results) == 1:
         print(backend.decrypt('\x14arknn\x83k*wokx6*~ro\x83*my\x7fvnx1~*|okn*s~I*\x14888*aovv6*}s|6*s~*\x81k}*oxm|\x83z~on8'))
 
+    
+    # SPOONS
+
     backend.title_sequence('Spoons!')
     results = []
     results.append( test(spooner('box', 'cutter'), 'cox butter'))
@@ -204,6 +189,9 @@ def main():
     if min(results) == 1:
         print(backend.decrypt('\x14]zyyxo|I*L\x7f~*S*lk|ov\x83*uxy\x81*ro|+*Rkrrkrkkrrkrkkrk*rkkrkrkrkrk*rkrrkrkkk+*8888**D2'))
 
+
+    # GENETIC PALINDROME
+    
     backend.title_sequence('Genetic Palindromes')
     results = []
     results.append( test(identify_genetic_palindrome('ACTGGCCAGT'), 'ACTGGCCAGT is a palindrome') )    

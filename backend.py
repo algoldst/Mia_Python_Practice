@@ -1,3 +1,10 @@
+# DON"T TOUCH THIS FILE!
+# DON"T EVEN LOOK AT IT!
+# Okay I'm kidding, you can look at it.
+# But don't use it please. :)
+# It contains all the secrets of my love for you,
+# which will be revealed in due time. :) ❤ ❤ ❤
+
 def encrypt(message: str):
     encrypted_message = ""
     for char in message:
